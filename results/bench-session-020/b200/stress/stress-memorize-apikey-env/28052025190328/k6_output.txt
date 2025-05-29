@@ -1,0 +1,1 @@
+./k6/run-k6-test.sh: line 110: k6: command not found

@@ -1,0 +1,392 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+time="2025-05-28T19:04:41Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+     execution: local
+        script: ./k6/scripts/stress-memorize-apikey-env.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 10 max VUs, 1m45s max duration (incl. graceful stop):
+              * stress_test: Up to 10 looping VUs for 1m40s over 4 stages (gracefulRampDown: 5s, gracefulStop: 30s)
+
+time="2025-05-28T19:04:41Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+time="2025-05-28T19:04:41Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+time="2025-05-28T19:04:41Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+time="2025-05-28T19:04:41Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+time="2025-05-28T19:04:41Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+time="2025-05-28T19:04:41Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+time="2025-05-28T19:04:41Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+time="2025-05-28T19:04:41Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+time="2025-05-28T19:04:41Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+time="2025-05-28T19:04:41Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+time="2025-05-28T19:04:41Z" level=info msg="Memory created with ID: a897ca5e-9f99-484e-a6d5-c0db6a15e119" source=console
+time="2025-05-28T19:04:41Z" level=info msg="Memory created with ID: 637a6f62-f700-49f0-aa36-9c192121de4e" source=console
+
+running (0m01.0s), 10/10 VUs, 69 complete and 0 interrupted iterations
+stress_test   [   1% ] 10/10 VUs  0m01.0s/1m40.0s
+
+running (0m02.0s), 09/10 VUs, 172 complete and 0 interrupted iterations
+stress_test   [   2% ] 09/10 VUs  0m02.0s/1m40.0s
+
+running (0m03.0s), 08/10 VUs, 275 complete and 0 interrupted iterations
+stress_test   [   3% ] 08/10 VUs  0m03.0s/1m40.0s
+time="2025-05-28T19:04:44Z" level=info msg="Memory created with ID: d7dee19a-bf67-4894-b690-99fee219cf99" source=console
+time="2025-05-28T19:04:45Z" level=info msg="Memory created with ID: 00a20fa7-faf5-4fc9-aa61-74e1aa112232" source=console
+
+running (0m04.0s), 07/10 VUs, 369 complete and 0 interrupted iterations
+stress_test   [   4% ] 07/10 VUs  0m04.0s/1m40.0s
+time="2025-05-28T19:04:45Z" level=info msg="Memory created with ID: 546b22d9-ba46-4ded-9256-316cf15ad42a" source=console
+
+running (0m05.0s), 06/10 VUs, 455 complete and 0 interrupted iterations
+stress_test   [   5% ] 06/10 VUs  0m05.0s/1m40.0s
+
+running (0m06.0s), 05/10 VUs, 524 complete and 0 interrupted iterations
+stress_test   [   6% ] 05/10 VUs  0m06.0s/1m40.0s
+time="2025-05-28T19:04:47Z" level=info msg="Memory created with ID: 1edf4dc2-5d01-463e-bc1c-6e497ecd0ef5" source=console
+time="2025-05-28T19:04:47Z" level=info msg="Memory created with ID: 122c84b2-8e2c-47ea-ae82-808ef29dae4c" source=console
+
+running (0m07.0s), 04/10 VUs, 583 complete and 0 interrupted iterations
+stress_test   [   7% ] 04/10 VUs  0m07.0s/1m40.0s
+
+running (0m08.0s), 03/10 VUs, 631 complete and 0 interrupted iterations
+stress_test   [   8% ] 03/10 VUs  0m08.0s/1m40.0s
+
+running (0m09.0s), 02/10 VUs, 664 complete and 0 interrupted iterations
+stress_test   [   9% ] 02/10 VUs  0m09.0s/1m40.0s
+
+running (0m10.0s), 01/10 VUs, 681 complete and 0 interrupted iterations
+stress_test   [  10% ] 01/10 VUs  0m10.0s/1m40.0s
+
+running (0m11.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  11% ] 00/10 VUs  0m11.0s/1m40.0s
+
+running (0m12.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  12% ] 00/10 VUs  0m12.0s/1m40.0s
+
+running (0m13.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  13% ] 00/10 VUs  0m13.0s/1m40.0s
+
+running (0m14.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  14% ] 00/10 VUs  0m14.0s/1m40.0s
+
+running (0m15.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  15% ] 00/10 VUs  0m15.0s/1m40.0s
+
+running (0m16.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  16% ] 00/10 VUs  0m16.0s/1m40.0s
+
+running (0m17.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  17% ] 00/10 VUs  0m17.0s/1m40.0s
+
+running (0m18.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  18% ] 00/10 VUs  0m18.0s/1m40.0s
+
+running (0m19.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  19% ] 00/10 VUs  0m19.0s/1m40.0s
+
+running (0m20.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  20% ] 00/10 VUs  0m20.0s/1m40.0s
+
+running (0m21.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  21% ] 00/10 VUs  0m21.0s/1m40.0s
+
+running (0m22.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  22% ] 00/10 VUs  0m22.0s/1m40.0s
+
+running (0m23.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  23% ] 00/10 VUs  0m23.0s/1m40.0s
+
+running (0m24.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  24% ] 00/10 VUs  0m24.0s/1m40.0s
+
+running (0m25.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  25% ] 00/10 VUs  0m25.0s/1m40.0s
+
+running (0m26.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  26% ] 00/10 VUs  0m26.0s/1m40.0s
+
+running (0m27.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  27% ] 00/10 VUs  0m27.0s/1m40.0s
+
+running (0m28.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  28% ] 00/10 VUs  0m28.0s/1m40.0s
+
+running (0m29.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  29% ] 00/10 VUs  0m29.0s/1m40.0s
+
+running (0m30.0s), 00/10 VUs, 682 complete and 0 interrupted iterations
+stress_test   [  30% ] 00/10 VUs  0m30.0s/1m40.0s
+
+running (0m31.0s), 01/10 VUs, 697 complete and 0 interrupted iterations
+stress_test   [  31% ] 01/10 VUs  0m31.0s/1m40.0s
+
+running (0m32.0s), 01/10 VUs, 713 complete and 0 interrupted iterations
+stress_test   [  32% ] 01/10 VUs  0m32.0s/1m40.0s
+
+running (0m33.0s), 01/10 VUs, 729 complete and 0 interrupted iterations
+stress_test   [  33% ] 01/10 VUs  0m33.0s/1m40.0s
+
+running (0m34.0s), 01/10 VUs, 745 complete and 0 interrupted iterations
+stress_test   [  34% ] 01/10 VUs  0m34.0s/1m40.0s
+
+running (0m35.0s), 01/10 VUs, 760 complete and 0 interrupted iterations
+stress_test   [  35% ] 01/10 VUs  0m35.0s/1m40.0s
+
+running (0m36.0s), 01/10 VUs, 776 complete and 0 interrupted iterations
+stress_test   [  36% ] 01/10 VUs  0m36.0s/1m40.0s
+
+running (0m37.0s), 01/10 VUs, 792 complete and 0 interrupted iterations
+stress_test   [  37% ] 01/10 VUs  0m37.0s/1m40.0s
+
+running (0m38.0s), 01/10 VUs, 808 complete and 0 interrupted iterations
+stress_test   [  38% ] 01/10 VUs  0m38.0s/1m40.0s
+time="2025-05-28T19:05:19Z" level=info msg="Memory created with ID: ca01247d-1db5-4b97-a4c5-a3d99bd1c39b" source=console
+
+running (0m39.0s), 01/10 VUs, 823 complete and 0 interrupted iterations
+stress_test   [  39% ] 01/10 VUs  0m39.0s/1m40.0s
+
+running (0m40.0s), 01/10 VUs, 839 complete and 0 interrupted iterations
+stress_test   [  40% ] 01/10 VUs  0m40.0s/1m40.0s
+
+running (0m41.0s), 01/10 VUs, 855 complete and 0 interrupted iterations
+stress_test   [  41% ] 01/10 VUs  0m41.0s/1m40.0s
+
+running (0m42.0s), 01/10 VUs, 870 complete and 0 interrupted iterations
+stress_test   [  42% ] 01/10 VUs  0m42.0s/1m40.0s
+time="2025-05-28T19:05:23Z" level=info msg="Memory created with ID: edfed35d-4368-4063-aac8-4efda00ab91a" source=console
+
+running (0m43.0s), 01/10 VUs, 886 complete and 0 interrupted iterations
+stress_test   [  43% ] 01/10 VUs  0m43.0s/1m40.0s
+
+running (0m44.0s), 01/10 VUs, 902 complete and 0 interrupted iterations
+stress_test   [  44% ] 01/10 VUs  0m44.0s/1m40.0s
+
+running (0m45.0s), 01/10 VUs, 918 complete and 0 interrupted iterations
+stress_test   [  45% ] 01/10 VUs  0m45.0s/1m40.0s
+
+running (0m46.0s), 01/10 VUs, 933 complete and 0 interrupted iterations
+stress_test   [  46% ] 01/10 VUs  0m46.0s/1m40.0s
+
+running (0m47.0s), 01/10 VUs, 948 complete and 0 interrupted iterations
+stress_test   [  47% ] 01/10 VUs  0m47.0s/1m40.0s
+
+running (0m48.0s), 01/10 VUs, 964 complete and 0 interrupted iterations
+stress_test   [  48% ] 01/10 VUs  0m48.0s/1m40.0s
+
+running (0m49.0s), 01/10 VUs, 980 complete and 0 interrupted iterations
+stress_test   [  49% ] 01/10 VUs  0m49.0s/1m40.0s
+time="2025-05-28T19:05:30Z" level=info msg="Memory created with ID: a29ba40d-e4c0-44ba-8fc1-fd0417351d30" source=console
+time="2025-05-28T19:05:31Z" level=info msg="Memory created with ID: 4e13ff27-58a1-4034-a995-c3762740ba4e" source=console
+
+running (0m50.0s), 01/10 VUs, 996 complete and 0 interrupted iterations
+stress_test   [  50% ] 01/10 VUs  0m50.0s/1m40.0s
+
+running (0m51.0s), 01/10 VUs, 1011 complete and 0 interrupted iterations
+stress_test   [  51% ] 01/10 VUs  0m51.0s/1m40.0s
+time="2025-05-28T19:05:32Z" level=info msg="Memory created with ID: f318b87f-3d14-4fa7-90a1-9d59062d0198" source=console
+
+running (0m52.0s), 01/10 VUs, 1027 complete and 0 interrupted iterations
+stress_test   [  52% ] 01/10 VUs  0m52.0s/1m40.0s
+
+running (0m53.0s), 01/10 VUs, 1043 complete and 0 interrupted iterations
+stress_test   [  53% ] 01/10 VUs  0m53.0s/1m40.0s
+
+running (0m54.0s), 01/10 VUs, 1058 complete and 0 interrupted iterations
+stress_test   [  54% ] 01/10 VUs  0m54.0s/1m40.0s
+time="2025-05-28T19:05:35Z" level=info msg="Memory created with ID: 385507a1-4030-48c7-878f-cab02b0110ef" source=console
+
+running (0m55.0s), 01/10 VUs, 1074 complete and 0 interrupted iterations
+stress_test   [  55% ] 01/10 VUs  0m55.0s/1m40.0s
+
+running (0m56.0s), 01/10 VUs, 1089 complete and 0 interrupted iterations
+stress_test   [  56% ] 01/10 VUs  0m56.0s/1m40.0s
+
+running (0m57.0s), 01/10 VUs, 1104 complete and 0 interrupted iterations
+stress_test   [  57% ] 01/10 VUs  0m57.0s/1m40.0s
+
+running (0m58.0s), 01/10 VUs, 1120 complete and 0 interrupted iterations
+stress_test   [  58% ] 01/10 VUs  0m58.0s/1m40.0s
+
+running (0m59.0s), 01/10 VUs, 1135 complete and 0 interrupted iterations
+stress_test   [  59% ] 01/10 VUs  0m59.0s/1m40.0s
+
+running (1m00.0s), 01/10 VUs, 1151 complete and 0 interrupted iterations
+stress_test   [  60% ] 01/10 VUs  1m00.0s/1m40.0s
+
+running (1m01.0s), 01/10 VUs, 1167 complete and 0 interrupted iterations
+stress_test   [  61% ] 01/10 VUs  1m01.0s/1m40.0s
+
+running (1m02.0s), 01/10 VUs, 1182 complete and 0 interrupted iterations
+stress_test   [  62% ] 01/10 VUs  1m02.0s/1m40.0s
+
+running (1m03.0s), 01/10 VUs, 1198 complete and 0 interrupted iterations
+stress_test   [  63% ] 01/10 VUs  1m03.0s/1m40.0s
+
+running (1m04.0s), 01/10 VUs, 1213 complete and 0 interrupted iterations
+stress_test   [  64% ] 01/10 VUs  1m04.0s/1m40.0s
+
+running (1m05.0s), 01/10 VUs, 1229 complete and 0 interrupted iterations
+stress_test   [  65% ] 01/10 VUs  1m05.0s/1m40.0s
+
+running (1m06.0s), 01/10 VUs, 1244 complete and 0 interrupted iterations
+stress_test   [  66% ] 01/10 VUs  1m06.0s/1m40.0s
+
+running (1m07.0s), 01/10 VUs, 1259 complete and 0 interrupted iterations
+stress_test   [  67% ] 01/10 VUs  1m07.0s/1m40.0s
+
+running (1m08.0s), 01/10 VUs, 1275 complete and 0 interrupted iterations
+stress_test   [  68% ] 01/10 VUs  1m08.0s/1m40.0s
+
+running (1m09.0s), 01/10 VUs, 1290 complete and 0 interrupted iterations
+stress_test   [  69% ] 01/10 VUs  1m09.0s/1m40.0s
+
+running (1m10.0s), 01/10 VUs, 1305 complete and 0 interrupted iterations
+stress_test   [  70% ] 01/10 VUs  1m10.0s/1m40.0s
+
+running (1m11.0s), 01/10 VUs, 1321 complete and 0 interrupted iterations
+stress_test   [  71% ] 01/10 VUs  1m11.0s/1m40.0s
+
+running (1m12.0s), 01/10 VUs, 1336 complete and 0 interrupted iterations
+stress_test   [  72% ] 01/10 VUs  1m12.0s/1m40.0s
+
+running (1m13.0s), 01/10 VUs, 1352 complete and 0 interrupted iterations
+stress_test   [  73% ] 01/10 VUs  1m13.0s/1m40.0s
+time="2025-05-28T19:05:54Z" level=info msg="Memory created with ID: ea7aeba9-8992-40d8-b4ca-2ac1fe77f19a" source=console
+
+running (1m14.0s), 01/10 VUs, 1368 complete and 0 interrupted iterations
+stress_test   [  74% ] 01/10 VUs  1m14.0s/1m40.0s
+
+running (1m15.0s), 01/10 VUs, 1383 complete and 0 interrupted iterations
+stress_test   [  75% ] 01/10 VUs  1m15.0s/1m40.0s
+time="2025-05-28T19:05:56Z" level=info msg="Memory created with ID: 1b7358bb-8474-4afa-b1b0-b9c313b925e3" source=console
+
+running (1m16.0s), 01/10 VUs, 1398 complete and 0 interrupted iterations
+stress_test   [  76% ] 01/10 VUs  1m16.0s/1m40.0s
+
+running (1m17.0s), 01/10 VUs, 1414 complete and 0 interrupted iterations
+stress_test   [  77% ] 01/10 VUs  1m17.0s/1m40.0s
+
+running (1m18.0s), 01/10 VUs, 1429 complete and 0 interrupted iterations
+stress_test   [  78% ] 01/10 VUs  1m18.0s/1m40.0s
+
+running (1m19.0s), 01/10 VUs, 1445 complete and 0 interrupted iterations
+stress_test   [  79% ] 01/10 VUs  1m19.0s/1m40.0s
+time="2025-05-28T19:06:00Z" level=info msg="Memory created with ID: 8a033942-96f9-4739-acfc-550a42481834" source=console
+
+running (1m20.0s), 01/10 VUs, 1460 complete and 0 interrupted iterations
+stress_test   [  80% ] 01/10 VUs  1m20.0s/1m40.0s
+
+running (1m21.0s), 01/10 VUs, 1476 complete and 0 interrupted iterations
+stress_test   [  81% ] 01/10 VUs  1m21.0s/1m40.0s
+
+running (1m22.0s), 01/10 VUs, 1491 complete and 0 interrupted iterations
+stress_test   [  82% ] 01/10 VUs  1m22.0s/1m40.0s
+
+running (1m23.0s), 01/10 VUs, 1507 complete and 0 interrupted iterations
+stress_test   [  83% ] 01/10 VUs  1m23.0s/1m40.0s
+time="2025-05-28T19:06:04Z" level=info msg="Memory created with ID: 0c5621e8-900c-4b3c-9d9b-1326b43b882c" source=console
+
+running (1m24.0s), 01/10 VUs, 1522 complete and 0 interrupted iterations
+stress_test   [  84% ] 01/10 VUs  1m24.0s/1m40.0s
+
+running (1m25.0s), 01/10 VUs, 1538 complete and 0 interrupted iterations
+stress_test   [  85% ] 01/10 VUs  1m25.0s/1m40.0s
+
+running (1m26.0s), 01/10 VUs, 1553 complete and 0 interrupted iterations
+stress_test   [  86% ] 01/10 VUs  1m26.0s/1m40.0s
+
+running (1m27.0s), 01/10 VUs, 1569 complete and 0 interrupted iterations
+stress_test   [  87% ] 01/10 VUs  1m27.0s/1m40.0s
+
+running (1m28.0s), 01/10 VUs, 1584 complete and 0 interrupted iterations
+stress_test   [  88% ] 01/10 VUs  1m28.0s/1m40.0s
+
+running (1m29.0s), 01/10 VUs, 1600 complete and 0 interrupted iterations
+stress_test   [  89% ] 01/10 VUs  1m29.0s/1m40.0s
+
+running (1m30.0s), 01/10 VUs, 1616 complete and 0 interrupted iterations
+stress_test   [  90% ] 01/10 VUs  1m30.0s/1m40.0s
+
+running (1m31.0s), 01/10 VUs, 1632 complete and 0 interrupted iterations
+stress_test   [  91% ] 01/10 VUs  1m31.0s/1m40.0s
+
+running (1m32.0s), 01/10 VUs, 1647 complete and 0 interrupted iterations
+stress_test   [  92% ] 01/10 VUs  1m32.0s/1m40.0s
+
+running (1m33.0s), 01/10 VUs, 1663 complete and 0 interrupted iterations
+stress_test   [  93% ] 01/10 VUs  1m33.0s/1m40.0s
+
+running (1m34.0s), 01/10 VUs, 1679 complete and 0 interrupted iterations
+stress_test   [  94% ] 01/10 VUs  1m34.0s/1m40.0s
+
+running (1m35.0s), 01/10 VUs, 1695 complete and 0 interrupted iterations
+stress_test   [  95% ] 01/10 VUs  1m35.0s/1m40.0s
+time="2025-05-28T19:06:16Z" level=info msg="Memory created with ID: a649cbfd-3f88-4d24-9a48-ed7e74be3a4b" source=console
+
+running (1m36.0s), 01/10 VUs, 1710 complete and 0 interrupted iterations
+stress_test   [  96% ] 01/10 VUs  1m36.0s/1m40.0s
+
+running (1m37.0s), 01/10 VUs, 1726 complete and 0 interrupted iterations
+stress_test   [  97% ] 01/10 VUs  1m37.0s/1m40.0s
+
+running (1m38.0s), 01/10 VUs, 1742 complete and 0 interrupted iterations
+stress_test   [  98% ] 01/10 VUs  1m38.0s/1m40.0s
+
+running (1m39.0s), 01/10 VUs, 1757 complete and 0 interrupted iterations
+stress_test   [  99% ] 01/10 VUs  1m39.0s/1m40.0s
+
+running (1m40.0s), 01/10 VUs, 1773 complete and 0 interrupted iterations
+stress_test   [ 100% ] 01/10 VUs  1m40.0s/1m40.0s
+time="2025-05-28T19:06:21Z" level=info msg="Executando teste de stress com até 1 VUs" source=console
+time="2025-05-28T19:06:21Z" level=error msg="TypeError: Cannot read property 'toFixed' of undefined or null\n\tat generateSummaryMarkdown (file:///home/aicube/qube_neural_memory/k6/scripts/stress-memorize-apikey-env.js:206:70(100))\n\tat handleSummary (file:///home/aicube/qube_neural_memory/k6/scripts/stress-memorize-apikey-env.js:160:59(145))\n" hint="script exception"
+
+
+  █ THRESHOLDS 
+
+    http_req_duration
+    ✓ 'p(95)<3000' p(95)=43.23ms
+
+    http_req_failed
+    ✓ 'rate<0.05' rate=0.00%
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......................: 8870   88.691124/s
+    checks_succeeded...................: 40.00% 3548 out of 8870
+    checks_failed......................: 60.00% 5322 out of 8870
+
+    ✓ Status is 200
+    ✓ memory_id exists
+    ✗ embedding_model exists
+      ↳  0% — ✓ 0 / ✗ 1774
+    ✗ tenant_id is correct
+      ↳  0% — ✓ 0 / ✗ 1774
+    ✗ agent_id is correct
+      ↳  0% — ✓ 0 / ✗ 1774
+
+    HTTP
+    http_req_duration.......................................................: avg=19.71ms min=10.05ms med=13.43ms max=208.04ms p(90)=31.17ms p(95)=43.23ms
+      { expected_response:true }............................................: avg=19.71ms min=10.05ms med=13.43ms max=208.04ms p(90)=31.17ms p(95)=43.23ms
+    http_req_failed.........................................................: 0.00%  0 out of 1774
+    http_reqs...............................................................: 1774   17.738225/s
+
+    EXECUTION
+    iteration_duration......................................................: avg=70.64ms min=60.91ms med=64.36ms max=262.34ms p(90)=82ms    p(95)=94.42ms
+    iterations..............................................................: 1774   17.738225/s
+    vus.....................................................................: 1      min=0         max=10
+    vus_max.................................................................: 10     min=10        max=10
+
+    NETWORK
+    data_received...........................................................: 460 kB 4.6 kB/s
+    data_sent...............................................................: 748 kB 7.5 kB/s
+
+
+
+
+running (1m40.0s), 00/10 VUs, 1774 complete and 0 interrupted iterations
+stress_test ✓ [ 100% ] 00/10 VUs  1m40s
