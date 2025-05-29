@@ -4,7 +4,7 @@ import { check } from 'k6';
 export const API_BASE_URL = 'http://150.136.65.20:8000';
 
 // Dados de autenticação API key - Tenant com alta quota para testes
-export const API_KEY = 'qube_057821d9a12c4c62a3655772a3ddb3bf';
+export const API_KEY = process.env.API_KEY || 'API_KEY_PLACEHOLDER';
 export const TENANT_ID = 'qube_assistant_tenant_b200_test_4';
 
 // Funções utilitárias

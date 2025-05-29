@@ -92,8 +92,8 @@ run_test() {
 
 # Função para obter estatísticas do banco de dados
 get_database_stats() {
-    # Conexão com o MongoDB
-    local db_uri="mongodb+srv://memorymaster:Aygx56Qx23rbos@qubeneuralmemory.global.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000"
+    # Conexão com o MongoDB - Usando variáveis de ambiente para credenciais
+    local db_uri="mongodb+srv://${MONGODB_USER:-mongodb_user}:${MONGODB_PASSWORD:-password}@qubeneuralmemory.global.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000"
     local db_name="qubeneuralmemoryDB"
     
     # Comando para obter estatísticas do banco

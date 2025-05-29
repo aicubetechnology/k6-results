@@ -4,7 +4,7 @@ import { check } from 'k6';
 export const API_BASE_URL = 'http://130.61.226.26:8000';
 
 // Dados de autenticação API key
-export const API_KEY = 'qube_02eee6c231d44324950be28823f9c26e';
+export const API_KEY = process.env.API_KEY || 'API_KEY_PLACEHOLDER';
 export const TENANT_ID = 'gdias_tenant_2';
 
 // Funções utilitárias

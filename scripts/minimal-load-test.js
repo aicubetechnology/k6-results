@@ -4,7 +4,7 @@ import { check } from 'k6';
 
 // Constantes da API
 const API_BASE_URL = 'http://130.61.226.26:8000';
-const API_KEY = 'qube_f902e70766df4267af120da27cd17ea3';
+const API_KEY = process.env.API_KEY || 'API_KEY_PLACEHOLDER';
 const TENANT_ID = 'gdias_tenant';
 
 // Array para armazenar requisições com falha

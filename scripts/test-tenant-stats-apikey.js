@@ -19,7 +19,7 @@ export const options = {
 
 // Configurações específicas para este teste
 const TENANT_ID = 'gdias_tenant';
-const API_KEY = 'qube_f902e70766df4267af120da27cd17ea3';
+const API_KEY = process.env.API_KEY || 'API_KEY_PLACEHOLDER';
 
 // Função para obter headers com API key
 function getApiKeyHeaders() {
