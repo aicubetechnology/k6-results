@@ -1,0 +1,30 @@
+{
+  "note": "Este arquivo armazena exemplos de requisições que falharam durante o teste, para fins de depuração.",
+  "failed_requests": [
+    {
+      "timestamp": "2025-05-26T01:07:45Z",
+      "request": {
+        "method": "POST",
+        "url": "http://130.61.226.26:8000/retrieve",
+        "headers": {
+          "Content-Type": "application/json",
+          "Authorization": "Bearer qube_02eee6c231d44324950be28823f9c26e"
+        },
+        "body": {
+          "tenant_id": "gdias_tenant_2",
+          "agent_id": "agent_gdias",
+          "query": "Quais são os planetas do sistema solar?",
+          "top_k": 3
+        }
+      },
+      "response": {
+        "status": 500,
+        "body": {"detail": "Erro ao recuperar memórias: 'VectorDB' object has no attribute 'retrieve_similar'"},
+        "headers": {
+          "content-length": "92",
+          "content-type": "application/json"
+        }
+      }
+    }
+  ]
+}

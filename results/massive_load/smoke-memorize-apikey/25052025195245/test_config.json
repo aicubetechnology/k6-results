@@ -1,0 +1,13 @@
+{
+  "test_type": "massive_load",
+  "script_name": "smoke-memorize-apikey",
+  "execution_date": "2025-05-25T19:47:30.000Z",
+  "parameters": {
+    "virtual_users": 50,
+    "iterations_per_user": 10,
+    "total_iterations": 500,
+    "max_duration": "3m",
+    "timeout_per_request": "10s",
+    "sleep_between_requests": 0.1
+  }
+}

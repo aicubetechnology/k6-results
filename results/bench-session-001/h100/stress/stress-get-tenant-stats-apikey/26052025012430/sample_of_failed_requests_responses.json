@@ -1,0 +1,53 @@
+{
+  "note": "Este arquivo armazena até 10 exemplos de requisições que falharam durante o teste, para fins de depuração.",
+  "failed_requests": [
+    {
+      "timestamp": "2025-05-26T01:24:58Z",
+      "request": {
+        "method": "GET",
+        "url": "http://130.61.226.26:8000/admin/tenant/gdias_tenant_2/stats",
+        "headers": {
+          "Content-Type": "application/json",
+          "Authorization": "Bearer qube_02eee6c231d44324950be28823f9c26e"
+        }
+      },
+      "response": {
+        "status": 0,
+        "body": null,
+        "headers": {}
+      }
+    },
+    {
+      "timestamp": "2025-05-26T01:25:04Z",
+      "request": {
+        "method": "GET",
+        "url": "http://130.61.226.26:8000/admin/tenant/gdias_tenant_2/stats",
+        "headers": {
+          "Content-Type": "application/json",
+          "Authorization": "Bearer qube_02eee6c231d44324950be28823f9c26e"
+        }
+      },
+      "response": {
+        "status": 0,
+        "body": null,
+        "headers": {}
+      }
+    },
+    {
+      "timestamp": "2025-05-26T01:25:10Z",
+      "request": {
+        "method": "GET",
+        "url": "http://130.61.226.26:8000/admin/tenant/gdias_tenant_2/stats",
+        "headers": {
+          "Content-Type": "application/json",
+          "Authorization": "Bearer qube_02eee6c231d44324950be28823f9c26e"
+        }
+      },
+      "response": {
+        "status": 0,
+        "body": null,
+        "headers": {}
+      }
+    }
+  ]
+}

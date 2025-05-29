@@ -1,0 +1,71 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+     execution: local
+        script: ./k6/scripts/smoke-get-tenant-stats-apikey-b200.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 5 max VUs, 1m0s max duration (incl. graceful stop):
+              * smoke_test: 10 iterations shared among 5 VUs (maxDuration: 30s, gracefulStop: 30s)
+
+time="2025-05-26T22:46:08Z" level=info msg="Tenant stats retrieved successfully: qube_test_tenant_1748298966 has 20 memories" source=console
+time="2025-05-26T22:46:08Z" level=info msg="Tenant stats retrieved successfully: qube_test_tenant_1748298966 has 20 memories" source=console
+time="2025-05-26T22:46:08Z" level=info msg="Tenant stats retrieved successfully: qube_test_tenant_1748298966 has 20 memories" source=console
+time="2025-05-26T22:46:08Z" level=info msg="Tenant stats retrieved successfully: qube_test_tenant_1748298966 has 20 memories" source=console
+time="2025-05-26T22:46:08Z" level=info msg="Tenant stats retrieved successfully: qube_test_tenant_1748298966 has 20 memories" source=console
+time="2025-05-26T22:46:08Z" level=info msg="Tenant stats retrieved successfully: qube_test_tenant_1748298966 has 20 memories" source=console
+time="2025-05-26T22:46:09Z" level=info msg="Tenant stats retrieved successfully: qube_test_tenant_1748298966 has 20 memories" source=console
+time="2025-05-26T22:46:09Z" level=info msg="Tenant stats retrieved successfully: qube_test_tenant_1748298966 has 20 memories" source=console
+time="2025-05-26T22:46:09Z" level=info msg="Tenant stats retrieved successfully: qube_test_tenant_1748298966 has 20 memories" source=console
+time="2025-05-26T22:46:09Z" level=info msg="Tenant stats retrieved successfully: qube_test_tenant_1748298966 has 20 memories" source=console
+
+running (0m01.0s), 5/5 VUs, 5 complete and 0 interrupted iterations
+smoke_test   [  50% ] 5 VUs  01.0s/30s  05/10 shared iters
+time="2025-05-26T22:46:09Z" level=error msg="TypeError: Cannot read property 'toFixed' of undefined or null\n\tat generateSummaryMarkdown (file:///home/aicube/qube_neural_memory/k6/scripts/smoke-get-tenant-stats-apikey-b200.js:160:50(72))\n\tat handleSummary (file:///home/aicube/qube_neural_memory/k6/scripts/smoke-get-tenant-stats-apikey-b200.js:104:59(119))\n" hint="script exception"
+
+
+  █ THRESHOLDS 
+
+    http_req_duration
+    ✓ 'p(95)<5000' p(95)=45.21ms
+
+    http_req_failed
+    ✓ 'rate<0.1' rate=0.00%
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......................: 40      37.156154/s
+    checks_succeeded...................: 100.00% 40 out of 40
+    checks_failed......................: 0.00%   0 out of 40
+
+    ✓ status is 200
+    ✓ has total_memories field
+    ✓ has agent_count field
+    ✓ has agent_distribution field
+
+    HTTP
+    http_req_duration.......................................................: avg=31.93ms  min=9.38ms   med=27.02ms  max=45.23ms  p(90)=45.18ms  p(95)=45.21ms 
+      { expected_response:true }............................................: avg=31.93ms  min=9.38ms   med=27.02ms  max=45.23ms  p(90)=45.18ms  p(95)=45.21ms 
+    http_req_failed.........................................................: 0.00%  0 out of 10
+    http_reqs...............................................................: 10     9.289039/s
+
+    EXECUTION
+    iteration_duration......................................................: avg=533.95ms min=510.27ms med=527.99ms max=548.55ms p(90)=548.08ms p(95)=548.32ms
+    iterations..............................................................: 10     9.289039/s
+    vus.....................................................................: 5      min=5       max=5
+    vus_max.................................................................: 5      min=5       max=5
+
+    NETWORK
+    data_received...........................................................: 7.3 kB 6.8 kB/s
+    data_sent...............................................................: 2.1 kB 2.0 kB/s
+
+
+
+
+running (0m01.1s), 0/5 VUs, 10 complete and 0 interrupted iterations
+smoke_test ✓ [ 100% ] 5 VUs  01.1s/30s  10/10 shared iters

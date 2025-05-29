@@ -1,0 +1,79 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+     execution: local
+        script: ./scripts/smoke-retrieve-apikey-bench008-b200.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 1 max VUs, 10m30s max duration (incl. graceful stop):
+              * default: 5 iterations shared among 1 VUs (maxDuration: 10m0s, gracefulStop: 30s)
+
+time="2025-05-27T05:00:13Z" level=error msg="Failed to retrieve: 500 {\"detail\":\"Erro ao recuperar memórias: 'VectorDB' object has no attribute 'retrieve_similar'\"}" source=console
+
+running (00m01.0s), 1/1 VUs, 0 complete and 0 interrupted iterations
+default   [   0% ] 1 VUs  00m01.0s/10m0s  0/5 shared iters
+time="2025-05-27T05:00:14Z" level=error msg="Failed to retrieve: 500 {\"detail\":\"Erro ao recuperar memórias: 'VectorDB' object has no attribute 'retrieve_similar'\"}" source=console
+
+running (00m02.0s), 1/1 VUs, 1 complete and 0 interrupted iterations
+default   [  20% ] 1 VUs  00m02.0s/10m0s  1/5 shared iters
+time="2025-05-27T05:00:15Z" level=error msg="Failed to retrieve: 500 {\"detail\":\"Erro ao recuperar memórias: 'VectorDB' object has no attribute 'retrieve_similar'\"}" source=console
+
+running (00m03.0s), 1/1 VUs, 2 complete and 0 interrupted iterations
+default   [  40% ] 1 VUs  00m03.0s/10m0s  2/5 shared iters
+time="2025-05-27T05:00:16Z" level=error msg="Failed to retrieve: 500 {\"detail\":\"Erro ao recuperar memórias: 'VectorDB' object has no attribute 'retrieve_similar'\"}" source=console
+
+running (00m04.0s), 1/1 VUs, 3 complete and 0 interrupted iterations
+default   [  60% ] 1 VUs  00m04.0s/10m0s  3/5 shared iters
+time="2025-05-27T05:00:18Z" level=error msg="Failed to retrieve: 500 {\"detail\":\"Erro ao recuperar memórias: 'VectorDB' object has no attribute 'retrieve_similar'\"}" source=console
+
+running (00m05.0s), 1/1 VUs, 4 complete and 0 interrupted iterations
+default   [  80% ] 1 VUs  00m05.0s/10m0s  4/5 shared iters
+
+
+  █ THRESHOLDS 
+
+    http_req_duration
+    ✓ 'p(95)<1000' p(95)=21.52ms
+
+    http_req_failed
+    ✗ 'rate<0.01' rate=100.00%
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......................: 15      2.935337/s
+    checks_succeeded...................: 0.00%   0 out of 15
+    checks_failed......................: 100.00% 15 out of 15
+
+    ✗ status is 200
+      ↳  0% — ✓ 0 / ✗ 5
+    ✗ response has matches array
+      ↳  0% — ✓ 0 / ✗ 5
+    ✗ response has source field
+      ↳  0% — ✓ 0 / ✗ 5
+
+    HTTP
+    http_req_duration......................: avg=20.4ms min=19.85ms med=20ms  max=21.78ms p(90)=21.26ms p(95)=21.52ms
+    http_req_failed........................: 100.00% 5 out of 5
+    http_reqs..............................: 5       0.978446/s
+
+    EXECUTION
+    iteration_duration.....................: avg=1.02s  min=1.02s   med=1.02s max=1.02s   p(90)=1.02s   p(95)=1.02s  
+    iterations.............................: 5       0.978446/s
+    vus....................................: 1       min=1      max=1
+    vus_max................................: 1       min=1      max=1
+
+    NETWORK
+    data_received..........................: 1.2 kB  234 B/s
+    data_sent..............................: 1.7 kB  338 B/s
+
+
+
+
+running (00m05.1s), 0/1 VUs, 5 complete and 0 interrupted iterations
+default ✓ [ 100% ] 1 VUs  00m05.1s/10m0s  5/5 shared iters
+time="2025-05-27T05:00:19Z" level=error msg="thresholds on metrics 'http_req_failed' have been crossed"

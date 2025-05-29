@@ -1,0 +1,55 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+     execution: local
+        script: ./k6/scripts/smoke-memorize-apikey-b200.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 10 max VUs, 1m0s max duration (incl. graceful stop):
+              * massive_load: 20 iterations shared among 10 VUs (maxDuration: 30s, gracefulStop: 30s)
+
+time="2025-05-26T22:36:42Z" level=error msg="TypeError: Cannot read property 'toFixed' of undefined or null\n\tat generateSummaryMarkdown (file:///home/aicube/qube_neural_memory/k6/scripts/smoke-memorize-apikey-b200.js:178:50(69))\n\tat handleSummary (file:///home/aicube/qube_neural_memory/k6/scripts/smoke-memorize-apikey-b200.js:122:59(119))\n" hint="script exception"
+
+
+  █ THRESHOLDS 
+
+    http_req_duration
+    ✓ 'p(95)<5000' p(95)=304.24ms
+
+    http_req_failed
+    ✓ 'rate<0.1' rate=0.00%
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......................: 60      89.776891/s
+    checks_succeeded...................: 100.00% 60 out of 60
+    checks_failed......................: 0.00%   0 out of 60
+
+    ✓ status is 200
+    ✓ has memory_id
+    ✓ status is success
+
+    HTTP
+    http_req_duration.......................................................: avg=200.16ms min=112.74ms med=179.96ms max=304.34ms p(90)=304.21ms p(95)=304.24ms
+      { expected_response:true }............................................: avg=200.16ms min=112.74ms med=179.96ms max=304.34ms p(90)=304.21ms p(95)=304.24ms
+    http_req_failed.........................................................: 0.00%  0 out of 20
+    http_reqs...............................................................: 20     29.92563/s
+
+    EXECUTION
+    iteration_duration......................................................: avg=302.82ms min=215.92ms med=282.62ms max=410.51ms p(90)=409.73ms p(95)=410.51ms
+    iterations..............................................................: 20     29.92563/s
+
+    NETWORK
+    data_received...........................................................: 5.2 kB 7.8 kB/s
+    data_sent...............................................................: 9.0 kB 14 kB/s
+
+
+
+
+running (0m00.7s), 00/10 VUs, 20 complete and 0 interrupted iterations
+massive_load ✓ [ 100% ] 10 VUs  00.7s/30s  20/20 shared iters

@@ -1,0 +1,74 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+     execution: local
+        script: ./k6/scripts/smoke-memorize-apikey-b200.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 10 max VUs, 1m0s max duration (incl. graceful stop):
+              * massive_load: 20 iterations shared among 10 VUs (maxDuration: 30s, gracefulStop: 30s)
+
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 565: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 985: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 888: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 873: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 292: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 273: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 885: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 590: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 638: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 133: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 192: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 0: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 695: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 329: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 27: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 568: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 113: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 459: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 903: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="Request failed with status 403 for user 696: {\"detail\":\"Acesso não autorizado a este tenant. Token é para tenant 'qube_test_tenant_1748298966', requisição é para 'gdias_tenant'\"}" source=console
+time="2025-05-26T22:36:22Z" level=error msg="TypeError: Cannot read property 'toFixed' of undefined or null\n\tat generateSummaryMarkdown (file:///home/aicube/qube_neural_memory/k6/scripts/smoke-memorize-apikey-b200.js:178:50(69))\n\tat handleSummary (file:///home/aicube/qube_neural_memory/k6/scripts/smoke-memorize-apikey-b200.js:122:59(119))\n" hint="script exception"
+
+
+  █ THRESHOLDS 
+
+    http_req_duration
+    ✓ 'p(95)<5000' p(95)=11.15ms
+
+    http_req_failed
+    ✗ 'rate<0.1' rate=100.00%
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......................: 20      88.660375/s
+    checks_succeeded...................: 0.00%   0 out of 20
+    checks_failed......................: 100.00% 20 out of 20
+
+    ✗ status is 200
+      ↳  0% — ✓ 0 / ✗ 20
+
+    HTTP
+    http_req_duration......................: avg=7.85ms   min=2.4ms    med=7.74ms   max=11.22ms  p(90)=10.87ms  p(95)=11.15ms
+    http_req_failed........................: 100.00% 20 out of 20
+    http_reqs..............................: 20      88.660375/s
+
+    EXECUTION
+    iteration_duration.....................: avg=110.51ms min=103.24ms med=109.02ms max=117.21ms p(90)=116.12ms p(95)=117.2ms
+    iterations.............................: 20      88.660375/s
+
+    NETWORK
+    data_received..........................: 5.4 kB  24 kB/s
+    data_sent..............................: 8.7 kB  39 kB/s
+
+
+
+
+running (0m00.2s), 00/10 VUs, 20 complete and 0 interrupted iterations
+massive_load ✓ [ 100% ] 10 VUs  00.2s/30s  20/20 shared iters
+time="2025-05-26T22:36:22Z" level=error msg="thresholds on metrics 'http_req_failed' have been crossed"

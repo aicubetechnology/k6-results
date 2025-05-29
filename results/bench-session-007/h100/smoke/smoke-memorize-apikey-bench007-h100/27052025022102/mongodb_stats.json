@@ -1,0 +1,14 @@
+{
+  db: 'qubeneuralmemoryDB',
+  collections: Long("3"),
+  views: Long("0"),
+  objects: Long("2430"),
+  avgObjSize: 70,
+  dataSize: 170100,
+  storageSize: 20283392,
+  indexes: Long("15"),
+  indexSize: 1540096,
+  totalSize: 21823488,
+  scaleFactor: 1,
+  ok: 1
+}

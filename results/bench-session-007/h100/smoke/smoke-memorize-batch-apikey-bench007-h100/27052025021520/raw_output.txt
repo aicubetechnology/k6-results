@@ -1,0 +1,79 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+     execution: local
+        script: ./scripts/smoke-memorize-batch-apikey-bench007-h100.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 1 max VUs, 10m30s max duration (incl. graceful stop):
+              * default: 5 iterations shared among 1 VUs (maxDuration: 10m0s, gracefulStop: 30s)
+
+time="2025-05-27T02:15:21Z" level=error msg="Failed to memorize batch: 404 {\"detail\":\"Not Found\"}" source=console
+
+running (00m01.0s), 1/1 VUs, 0 complete and 0 interrupted iterations
+default   [   0% ] 1 VUs  00m01.0s/10m0s  0/5 shared iters
+time="2025-05-27T02:15:22Z" level=error msg="Failed to memorize batch: 404 {\"detail\":\"Not Found\"}" source=console
+
+running (00m02.0s), 1/1 VUs, 1 complete and 0 interrupted iterations
+default   [  20% ] 1 VUs  00m02.0s/10m0s  1/5 shared iters
+time="2025-05-27T02:15:23Z" level=error msg="Failed to memorize batch: 404 {\"detail\":\"Not Found\"}" source=console
+
+running (00m03.0s), 1/1 VUs, 2 complete and 0 interrupted iterations
+default   [  40% ] 1 VUs  00m03.0s/10m0s  2/5 shared iters
+time="2025-05-27T02:15:24Z" level=error msg="Failed to memorize batch: 404 {\"detail\":\"Not Found\"}" source=console
+
+running (00m04.0s), 1/1 VUs, 3 complete and 0 interrupted iterations
+default   [  60% ] 1 VUs  00m04.0s/10m0s  3/5 shared iters
+time="2025-05-27T02:15:25Z" level=error msg="Failed to memorize batch: 404 {\"detail\":\"Not Found\"}" source=console
+
+running (00m05.0s), 1/1 VUs, 4 complete and 0 interrupted iterations
+default   [  80% ] 1 VUs  00m05.0s/10m0s  4/5 shared iters
+
+
+  █ THRESHOLDS 
+
+    http_req_duration
+    ✓ 'p(95)<1000' p(95)=89.98ms
+
+    http_req_failed
+    ✗ 'rate<0.01' rate=100.00%
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......................: 15      2.704603/s
+    checks_succeeded...................: 0.00%   0 out of 15
+    checks_failed......................: 100.00% 15 out of 15
+
+    ✗ status is 200
+      ↳  0% — ✓ 0 / ✗ 5
+    ✗ response has memory_ids
+      ↳  0% — ✓ 0 / ✗ 5
+    ✗ response has embedding_successful
+      ↳  0% — ✓ 0 / ✗ 5
+
+    HTTP
+    http_req_duration......................: avg=89.91ms min=89.77ms med=89.91ms max=89.98ms p(90)=89.98ms p(95)=89.98ms
+    http_req_failed........................: 100.00% 5 out of 5
+    http_reqs..............................: 5       0.901534/s
+
+    EXECUTION
+    iteration_duration.....................: avg=1.1s    min=1.09s   med=1.09s   max=1.18s   p(90)=1.14s   p(95)=1.16s  
+    iterations.............................: 5       0.901534/s
+    vus....................................: 1       min=1      max=1
+    vus_max................................: 1       min=1      max=1
+
+    NETWORK
+    data_received..........................: 770 B   139 B/s
+    data_sent..............................: 2.8 kB  509 B/s
+
+
+
+
+running (00m05.5s), 0/1 VUs, 5 complete and 0 interrupted iterations
+default ✓ [ 100% ] 1 VUs  00m05.5s/10m0s  5/5 shared iters
+time="2025-05-27T02:15:26Z" level=error msg="thresholds on metrics 'http_req_failed' have been crossed"

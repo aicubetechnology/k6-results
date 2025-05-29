@@ -1,0 +1,541 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+     execution: local
+        script: ./k6/scripts/stress-get-tenant-stats-apikey-b200-high-quota.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 500 max VUs, 1m45s max duration (incl. graceful stop):
+              * stress_test: Up to 500 looping VUs for 1m40s over 5 stages (gracefulRampDown: 5s, gracefulStop: 30s)
+
+
+running (0m00.9s), 054/500 VUs, 131 complete and 0 interrupted iterations
+stress_test   [   1% ] 054/500 VUs  0m00.9s/1m40.0s
+time="2025-05-26T23:02:36Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:37Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:37Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m01.9s), 059/500 VUs, 297 complete and 0 interrupted iterations
+stress_test   [   2% ] 059/500 VUs  0m01.9s/1m40.0s
+time="2025-05-26T23:02:38Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:38Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m02.9s), 064/500 VUs, 444 complete and 0 interrupted iterations
+stress_test   [   3% ] 064/500 VUs  0m02.9s/1m40.0s
+time="2025-05-26T23:02:39Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:39Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m03.9s), 069/500 VUs, 640 complete and 0 interrupted iterations
+stress_test   [   4% ] 069/500 VUs  0m03.9s/1m40.0s
+time="2025-05-26T23:02:40Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:40Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:40Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m04.9s), 074/500 VUs, 818 complete and 0 interrupted iterations
+stress_test   [   5% ] 074/500 VUs  0m04.9s/1m40.0s
+time="2025-05-26T23:02:41Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:41Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:41Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:41Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m05.9s), 079/500 VUs, 1005 complete and 0 interrupted iterations
+stress_test   [   6% ] 079/500 VUs  0m05.9s/1m40.0s
+time="2025-05-26T23:02:42Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m06.9s), 084/500 VUs, 1165 complete and 0 interrupted iterations
+stress_test   [   7% ] 084/500 VUs  0m06.9s/1m40.0s
+time="2025-05-26T23:02:43Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:43Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:43Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:43Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:43Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m07.9s), 089/500 VUs, 1336 complete and 0 interrupted iterations
+stress_test   [   8% ] 089/500 VUs  0m07.9s/1m40.0s
+time="2025-05-26T23:02:43Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:43Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:44Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:44Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:44Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m08.9s), 094/500 VUs, 1516 complete and 0 interrupted iterations
+stress_test   [   9% ] 094/500 VUs  0m08.9s/1m40.0s
+time="2025-05-26T23:02:45Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:45Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m09.9s), 099/500 VUs, 1707 complete and 0 interrupted iterations
+stress_test   [  10% ] 099/500 VUs  0m09.9s/1m40.0s
+time="2025-05-26T23:02:46Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:46Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m10.9s), 105/500 VUs, 1859 complete and 0 interrupted iterations
+stress_test   [  11% ] 105/500 VUs  0m10.9s/1m40.0s
+time="2025-05-26T23:02:47Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:47Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m11.9s), 112/500 VUs, 2046 complete and 0 interrupted iterations
+stress_test   [  12% ] 112/500 VUs  0m11.9s/1m40.0s
+time="2025-05-26T23:02:48Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:48Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:48Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:48Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:48Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m12.9s), 119/500 VUs, 2224 complete and 0 interrupted iterations
+stress_test   [  13% ] 119/500 VUs  0m12.9s/1m40.0s
+time="2025-05-26T23:02:49Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m13.9s), 125/500 VUs, 2420 complete and 0 interrupted iterations
+stress_test   [  14% ] 125/500 VUs  0m13.9s/1m40.0s
+
+running (0m14.9s), 132/500 VUs, 2581 complete and 0 interrupted iterations
+stress_test   [  15% ] 132/500 VUs  0m14.9s/1m40.0s
+time="2025-05-26T23:02:51Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m15.9s), 139/500 VUs, 2747 complete and 0 interrupted iterations
+stress_test   [  16% ] 139/500 VUs  0m15.9s/1m40.0s
+time="2025-05-26T23:02:51Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:52Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:52Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:52Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:52Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m16.9s), 145/500 VUs, 2921 complete and 0 interrupted iterations
+stress_test   [  17% ] 145/500 VUs  0m16.9s/1m40.0s
+time="2025-05-26T23:02:53Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:53Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m17.9s), 152/500 VUs, 3095 complete and 0 interrupted iterations
+stress_test   [  18% ] 152/500 VUs  0m17.9s/1m40.0s
+time="2025-05-26T23:02:53Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:53Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:54Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m18.9s), 159/500 VUs, 3274 complete and 0 interrupted iterations
+stress_test   [  19% ] 159/500 VUs  0m18.9s/1m40.0s
+time="2025-05-26T23:02:55Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:55Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:55Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m19.9s), 165/500 VUs, 3435 complete and 0 interrupted iterations
+stress_test   [  20% ] 165/500 VUs  0m19.9s/1m40.0s
+time="2025-05-26T23:02:56Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m20.9s), 172/500 VUs, 3604 complete and 0 interrupted iterations
+stress_test   [  21% ] 172/500 VUs  0m20.9s/1m40.0s
+time="2025-05-26T23:02:57Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:57Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m21.9s), 179/500 VUs, 3773 complete and 0 interrupted iterations
+stress_test   [  22% ] 179/500 VUs  0m21.9s/1m40.0s
+time="2025-05-26T23:02:58Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:58Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:58Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:58Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:58Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:58Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:58Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m22.9s), 185/500 VUs, 3947 complete and 0 interrupted iterations
+stress_test   [  23% ] 185/500 VUs  0m22.9s/1m40.0s
+time="2025-05-26T23:02:59Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:59Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:02:59Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m23.9s), 192/500 VUs, 4128 complete and 0 interrupted iterations
+stress_test   [  24% ] 192/500 VUs  0m23.9s/1m40.0s
+time="2025-05-26T23:03:00Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:00Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m24.9s), 199/500 VUs, 4288 complete and 0 interrupted iterations
+stress_test   [  25% ] 199/500 VUs  0m24.9s/1m40.0s
+time="2025-05-26T23:03:01Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m25.9s), 205/500 VUs, 4467 complete and 0 interrupted iterations
+stress_test   [  26% ] 205/500 VUs  0m25.9s/1m40.0s
+
+running (0m26.9s), 212/500 VUs, 4648 complete and 0 interrupted iterations
+stress_test   [  27% ] 212/500 VUs  0m26.9s/1m40.0s
+
+running (0m27.9s), 219/500 VUs, 4808 complete and 0 interrupted iterations
+stress_test   [  28% ] 219/500 VUs  0m27.9s/1m40.0s
+time="2025-05-26T23:03:04Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m28.9s), 225/500 VUs, 4987 complete and 0 interrupted iterations
+stress_test   [  29% ] 225/500 VUs  0m28.9s/1m40.0s
+
+running (0m29.9s), 232/500 VUs, 5168 complete and 0 interrupted iterations
+stress_test   [  30% ] 232/500 VUs  0m29.9s/1m40.0s
+time="2025-05-26T23:03:06Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:06Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:06Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m30.9s), 239/500 VUs, 5328 complete and 0 interrupted iterations
+stress_test   [  31% ] 239/500 VUs  0m30.9s/1m40.0s
+time="2025-05-26T23:03:06Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:07Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m31.9s), 245/500 VUs, 5494 complete and 0 interrupted iterations
+stress_test   [  32% ] 245/500 VUs  0m31.9s/1m40.0s
+time="2025-05-26T23:03:08Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:08Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:08Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m32.9s), 252/500 VUs, 5688 complete and 0 interrupted iterations
+stress_test   [  33% ] 252/500 VUs  0m32.9s/1m40.0s
+time="2025-05-26T23:03:09Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:09Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m33.9s), 259/500 VUs, 5848 complete and 0 interrupted iterations
+stress_test   [  34% ] 259/500 VUs  0m33.9s/1m40.0s
+time="2025-05-26T23:03:09Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:10Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m34.9s), 265/500 VUs, 6020 complete and 0 interrupted iterations
+stress_test   [  35% ] 265/500 VUs  0m34.9s/1m40.0s
+time="2025-05-26T23:03:11Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m35.9s), 272/500 VUs, 6208 complete and 0 interrupted iterations
+stress_test   [  36% ] 272/500 VUs  0m35.9s/1m40.0s
+time="2025-05-26T23:03:12Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:12Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m36.9s), 279/500 VUs, 6368 complete and 0 interrupted iterations
+stress_test   [  37% ] 279/500 VUs  0m36.9s/1m40.0s
+time="2025-05-26T23:03:13Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:13Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m37.9s), 285/500 VUs, 6528 complete and 0 interrupted iterations
+stress_test   [  38% ] 285/500 VUs  0m37.9s/1m40.0s
+
+running (0m38.9s), 292/500 VUs, 6707 complete and 0 interrupted iterations
+stress_test   [  39% ] 292/500 VUs  0m38.9s/1m40.0s
+
+running (0m39.9s), 299/500 VUs, 6888 complete and 0 interrupted iterations
+stress_test   [  40% ] 299/500 VUs  0m39.9s/1m40.0s
+time="2025-05-26T23:03:16Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:16Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m40.9s), 308/500 VUs, 7048 complete and 0 interrupted iterations
+stress_test   [  41% ] 308/500 VUs  0m40.9s/1m40.0s
+time="2025-05-26T23:03:17Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:17Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m41.9s), 318/500 VUs, 7227 complete and 0 interrupted iterations
+stress_test   [  42% ] 318/500 VUs  0m41.9s/1m40.0s
+time="2025-05-26T23:03:17Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:18Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:18Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m42.9s), 328/500 VUs, 7408 complete and 0 interrupted iterations
+stress_test   [  43% ] 328/500 VUs  0m42.9s/1m40.0s
+time="2025-05-26T23:03:18Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:19Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:19Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m43.9s), 338/500 VUs, 7568 complete and 0 interrupted iterations
+stress_test   [  44% ] 338/500 VUs  0m43.9s/1m40.0s
+time="2025-05-26T23:03:19Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m44.9s), 348/500 VUs, 7747 complete and 0 interrupted iterations
+stress_test   [  45% ] 348/500 VUs  0m44.9s/1m40.0s
+time="2025-05-26T23:03:21Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m45.9s), 358/500 VUs, 7928 complete and 0 interrupted iterations
+stress_test   [  46% ] 358/500 VUs  0m45.9s/1m40.0s
+time="2025-05-26T23:03:22Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:22Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m46.9s), 368/500 VUs, 8088 complete and 0 interrupted iterations
+stress_test   [  47% ] 368/500 VUs  0m46.9s/1m40.0s
+time="2025-05-26T23:03:22Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:22Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:23Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:23Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:23Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:23Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:23Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m47.9s), 378/500 VUs, 8267 complete and 0 interrupted iterations
+stress_test   [  48% ] 378/500 VUs  0m47.9s/1m40.0s
+time="2025-05-26T23:03:24Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m48.9s), 388/500 VUs, 8448 complete and 0 interrupted iterations
+stress_test   [  49% ] 388/500 VUs  0m48.9s/1m40.0s
+time="2025-05-26T23:03:25Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m49.9s), 398/500 VUs, 8608 complete and 0 interrupted iterations
+stress_test   [  50% ] 398/500 VUs  0m49.9s/1m40.0s
+time="2025-05-26T23:03:26Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:26Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m50.9s), 408/500 VUs, 8787 complete and 0 interrupted iterations
+stress_test   [  51% ] 408/500 VUs  0m50.9s/1m40.0s
+
+running (0m51.9s), 418/500 VUs, 8968 complete and 0 interrupted iterations
+stress_test   [  52% ] 418/500 VUs  0m51.9s/1m40.0s
+time="2025-05-26T23:03:28Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:28Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:28Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m52.9s), 428/500 VUs, 9134 complete and 0 interrupted iterations
+stress_test   [  53% ] 428/500 VUs  0m52.9s/1m40.0s
+
+running (0m53.9s), 438/500 VUs, 9307 complete and 0 interrupted iterations
+stress_test   [  54% ] 438/500 VUs  0m53.9s/1m40.0s
+time="2025-05-26T23:03:30Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:30Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:30Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:30Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m54.9s), 448/500 VUs, 9488 complete and 0 interrupted iterations
+stress_test   [  55% ] 448/500 VUs  0m54.9s/1m40.0s
+time="2025-05-26T23:03:30Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:31Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:31Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m55.9s), 458/500 VUs, 9667 complete and 0 interrupted iterations
+stress_test   [  56% ] 458/500 VUs  0m55.9s/1m40.0s
+
+running (0m56.9s), 468/500 VUs, 9827 complete and 0 interrupted iterations
+stress_test   [  57% ] 468/500 VUs  0m56.9s/1m40.0s
+
+running (0m57.9s), 478/500 VUs, 10008 complete and 0 interrupted iterations
+stress_test   [  58% ] 478/500 VUs  0m57.9s/1m40.0s
+time="2025-05-26T23:03:34Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:34Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m58.9s), 488/500 VUs, 10187 complete and 0 interrupted iterations
+stress_test   [  59% ] 488/500 VUs  0m58.9s/1m40.0s
+time="2025-05-26T23:03:35Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (0m59.9s), 498/500 VUs, 10347 complete and 0 interrupted iterations
+stress_test   [  60% ] 498/500 VUs  0m59.9s/1m40.0s
+
+running (1m00.9s), 500/500 VUs, 10528 complete and 0 interrupted iterations
+stress_test   [  61% ] 500/500 VUs  1m00.9s/1m40.0s
+time="2025-05-26T23:03:37Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:37Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:37Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:37Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m01.9s), 500/500 VUs, 10707 complete and 0 interrupted iterations
+stress_test   [  62% ] 500/500 VUs  1m01.9s/1m40.0s
+time="2025-05-26T23:03:37Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:38Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m02.9s), 500/500 VUs, 10890 complete and 0 interrupted iterations
+stress_test   [  63% ] 500/500 VUs  1m02.9s/1m40.0s
+
+running (1m03.9s), 500/500 VUs, 11051 complete and 0 interrupted iterations
+stress_test   [  64% ] 500/500 VUs  1m03.9s/1m40.0s
+
+running (1m04.9s), 500/500 VUs, 11248 complete and 0 interrupted iterations
+stress_test   [  65% ] 500/500 VUs  1m04.9s/1m40.0s
+time="2025-05-26T23:03:41Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:41Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m05.9s), 500/500 VUs, 11427 complete and 0 interrupted iterations
+stress_test   [  66% ] 500/500 VUs  1m05.9s/1m40.0s
+
+running (1m06.9s), 500/500 VUs, 11587 complete and 0 interrupted iterations
+stress_test   [  67% ] 500/500 VUs  1m06.9s/1m40.0s
+
+running (1m07.9s), 500/500 VUs, 11768 complete and 0 interrupted iterations
+stress_test   [  68% ] 500/500 VUs  1m07.9s/1m40.0s
+time="2025-05-26T23:03:44Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m08.9s), 500/500 VUs, 11968 complete and 0 interrupted iterations
+stress_test   [  69% ] 500/500 VUs  1m08.9s/1m40.0s
+time="2025-05-26T23:03:45Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:45Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m09.9s), 500/500 VUs, 12147 complete and 0 interrupted iterations
+stress_test   [  70% ] 500/500 VUs  1m09.9s/1m40.0s
+time="2025-05-26T23:03:45Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m10.9s), 500/500 VUs, 12328 complete and 0 interrupted iterations
+stress_test   [  71% ] 500/500 VUs  1m10.9s/1m40.0s
+time="2025-05-26T23:03:47Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m11.9s), 500/500 VUs, 12528 complete and 0 interrupted iterations
+stress_test   [  72% ] 500/500 VUs  1m11.9s/1m40.0s
+time="2025-05-26T23:03:48Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m12.9s), 500/500 VUs, 12728 complete and 0 interrupted iterations
+stress_test   [  73% ] 500/500 VUs  1m12.9s/1m40.0s
+time="2025-05-26T23:03:49Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m13.9s), 500/500 VUs, 12928 complete and 0 interrupted iterations
+stress_test   [  74% ] 500/500 VUs  1m13.9s/1m40.0s
+time="2025-05-26T23:03:50Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:50Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m14.9s), 500/500 VUs, 13091 complete and 0 interrupted iterations
+stress_test   [  75% ] 500/500 VUs  1m14.9s/1m40.0s
+time="2025-05-26T23:03:51Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:51Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:51Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:51Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m15.9s), 500/500 VUs, 13290 complete and 0 interrupted iterations
+stress_test   [  76% ] 500/500 VUs  1m15.9s/1m40.0s
+time="2025-05-26T23:03:52Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:52Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:52Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m16.9s), 500/500 VUs, 13488 complete and 0 interrupted iterations
+stress_test   [  77% ] 500/500 VUs  1m16.9s/1m40.0s
+time="2025-05-26T23:03:52Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:53Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m17.9s), 500/500 VUs, 13667 complete and 0 interrupted iterations
+stress_test   [  78% ] 500/500 VUs  1m17.9s/1m40.0s
+time="2025-05-26T23:03:54Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:54Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m18.9s), 500/500 VUs, 13867 complete and 0 interrupted iterations
+stress_test   [  79% ] 500/500 VUs  1m18.9s/1m40.0s
+time="2025-05-26T23:03:55Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m19.9s), 500/500 VUs, 14048 complete and 0 interrupted iterations
+stress_test   [  80% ] 500/500 VUs  1m19.9s/1m40.0s
+
+running (1m20.9s), 500/500 VUs, 14227 complete and 0 interrupted iterations
+stress_test   [  81% ] 500/500 VUs  1m20.9s/1m40.0s
+time="2025-05-26T23:03:57Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:03:57Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m21.9s), 500/500 VUs, 14427 complete and 0 interrupted iterations
+stress_test   [  82% ] 500/500 VUs  1m21.9s/1m40.0s
+
+running (1m22.9s), 500/500 VUs, 14611 complete and 0 interrupted iterations
+stress_test   [  83% ] 500/500 VUs  1m22.9s/1m40.0s
+
+running (1m23.9s), 500/500 VUs, 14787 complete and 0 interrupted iterations
+stress_test   [  84% ] 500/500 VUs  1m23.9s/1m40.0s
+time="2025-05-26T23:04:00Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:00Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:00Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:00Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m24.9s), 500/500 VUs, 14968 complete and 0 interrupted iterations
+stress_test   [  85% ] 500/500 VUs  1m24.9s/1m40.0s
+
+running (1m25.9s), 500/500 VUs, 15168 complete and 0 interrupted iterations
+stress_test   [  86% ] 500/500 VUs  1m25.9s/1m40.0s
+
+running (1m26.9s), 500/500 VUs, 15328 complete and 0 interrupted iterations
+stress_test   [  87% ] 500/500 VUs  1m26.9s/1m40.0s
+time="2025-05-26T23:04:02Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:03Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m27.9s), 500/500 VUs, 15507 complete and 0 interrupted iterations
+stress_test   [  88% ] 500/500 VUs  1m27.9s/1m40.0s
+time="2025-05-26T23:04:04Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:04Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:04Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:04Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m28.9s), 500/500 VUs, 15690 complete and 0 interrupted iterations
+stress_test   [  89% ] 500/500 VUs  1m28.9s/1m40.0s
+
+running (1m29.9s), 500/500 VUs, 15888 complete and 0 interrupted iterations
+stress_test   [  90% ] 500/500 VUs  1m29.9s/1m40.0s
+time="2025-05-26T23:04:06Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m30.9s), 495/500 VUs, 16088 complete and 0 interrupted iterations
+stress_test   [  91% ] 495/500 VUs  1m30.9s/1m40.0s
+time="2025-05-26T23:04:07Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:07Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m31.9s), 476/500 VUs, 16248 complete and 0 interrupted iterations
+stress_test   [  92% ] 476/500 VUs  1m31.9s/1m40.0s
+time="2025-05-26T23:04:08Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:08Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:08Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m32.9s), 427/500 VUs, 16448 complete and 0 interrupted iterations
+stress_test   [  93% ] 427/500 VUs  1m32.9s/1m40.0s
+time="2025-05-26T23:04:09Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:09Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m33.9s), 370/500 VUs, 16648 complete and 0 interrupted iterations
+stress_test   [  94% ] 370/500 VUs  1m33.9s/1m40.0s
+time="2025-05-26T23:04:10Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:10Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:10Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m34.9s), 309/500 VUs, 16848 complete and 0 interrupted iterations
+stress_test   [  95% ] 309/500 VUs  1m34.9s/1m40.0s
+time="2025-05-26T23:04:11Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m35.9s), 245/500 VUs, 17048 complete and 0 interrupted iterations
+stress_test   [  96% ] 245/500 VUs  1m35.9s/1m40.0s
+time="2025-05-26T23:04:12Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:12Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m36.9s), 193/500 VUs, 17227 complete and 0 interrupted iterations
+stress_test   [  97% ] 193/500 VUs  1m36.9s/1m40.0s
+time="2025-05-26T23:04:13Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:13Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m37.9s), 133/500 VUs, 17413 complete and 0 interrupted iterations
+stress_test   [  98% ] 133/500 VUs  1m37.9s/1m40.0s
+time="2025-05-26T23:04:14Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+time="2025-05-26T23:04:14Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m38.9s), 071/500 VUs, 17617 complete and 0 interrupted iterations
+stress_test   [  99% ] 071/500 VUs  1m38.9s/1m40.0s
+time="2025-05-26T23:04:15Z" level=info msg="Tenant qube_assistant_tenant_b200_test_4 has 21 memories and 21 agents" source=console
+
+running (1m39.9s), 010/500 VUs, 17814 complete and 0 interrupted iterations
+stress_test   [ 100% ] 010/500 VUs  1m39.9s/1m40.0s
+time="2025-05-26T23:04:16Z" level=error msg="TypeError: Cannot read property 'toFixed' of undefined or null\n\tat generateSummaryMarkdown (file:///home/aicube/qube_neural_memory/k6/scripts/stress-get-tenant-stats-apikey-b200-high-quota.js:153:70(78))\n\tat handleSummary (file:///home/aicube/qube_neural_memory/k6/scripts/stress-get-tenant-stats-apikey-b200-high-quota.js:107:59(119))\n" hint="script exception"
+
+
+  █ THRESHOLDS 
+
+    http_req_duration
+    ✓ 'p(95)<5000' p(95)=2.72s
+
+    http_req_failed
+    ✓ 'rate<0.1' rate=0.00%
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......................: 71312   712.964197/s
+    checks_succeeded...................: 100.00% 71312 out of 71312
+    checks_failed......................: 0.00%   0 out of 71312
+
+    ✓ Status is 200
+    ✓ total_memories exists
+    ✓ agent_count exists
+    ✓ agent_distribution exists
+
+    HTTP
+    http_req_duration.......................................................: avg=1.72s min=7.95ms   med=1.9s max=3.13s p(90)=2.67s p(95)=2.72s
+      { expected_response:true }............................................: avg=1.72s min=7.95ms   med=1.9s max=3.13s p(90)=2.67s p(95)=2.72s
+    http_req_failed.........................................................: 0.00%  0 out of 17828
+    http_reqs...............................................................: 17828  178.241049/s
+
+    EXECUTION
+    iteration_duration......................................................: avg=1.83s min=108.58ms med=2s   max=3.23s p(90)=2.77s p(95)=2.82s
+    iterations..............................................................: 17828  178.241049/s
+    vus.....................................................................: 10     min=10         max=500
+    vus_max.................................................................: 500    min=500        max=500
+
+    NETWORK
+    data_received...........................................................: 13 MB  134 kB/s
+    data_sent...............................................................: 3.9 MB 39 kB/s
+
+
+
+
+running (1m40.0s), 000/500 VUs, 17828 complete and 0 interrupted iterations
+stress_test ✓ [ 100% ] 000/500 VUs  1m40s

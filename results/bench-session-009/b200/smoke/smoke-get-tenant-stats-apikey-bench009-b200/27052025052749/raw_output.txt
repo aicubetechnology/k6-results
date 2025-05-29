@@ -1,0 +1,69 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+     execution: local
+        script: ./scripts/smoke-get-tenant-stats-apikey-bench009-b200.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 1 max VUs, 10m30s max duration (incl. graceful stop):
+              * default: 3 iterations shared among 1 VUs (maxDuration: 10m0s, gracefulStop: 30s)
+
+time="2025-05-27T05:27:49Z" level=error msg="Error validating response: r is not defined" source=console
+
+running (00m01.0s), 1/1 VUs, 0 complete and 0 interrupted iterations
+default   [   0% ] 1 VUs  00m01.0s/10m0s  0/3 shared iters
+time="2025-05-27T05:27:50Z" level=error msg="Error validating response: r is not defined" source=console
+
+running (00m02.0s), 1/1 VUs, 1 complete and 0 interrupted iterations
+default   [  33% ] 1 VUs  00m02.0s/10m0s  1/3 shared iters
+time="2025-05-27T05:27:51Z" level=error msg="Error validating response: r is not defined" source=console
+
+running (00m03.0s), 1/1 VUs, 2 complete and 0 interrupted iterations
+default   [  67% ] 1 VUs  00m03.0s/10m0s  2/3 shared iters
+
+
+  █ THRESHOLDS 
+
+    http_req_duration
+    ✓ 'p(95)<1000' p(95)=8.76ms
+
+    http_req_failed
+    ✓ 'rate<0.01' rate=0.00%
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......................: 12      3.958391/s
+    checks_succeeded...................: 100.00% 12 out of 12
+    checks_failed......................: 0.00%   0 out of 12
+
+    ✓ status is 200
+    ✓ response has total_memories
+    ✓ response has agent_count
+    ✓ response has agent_distribution
+
+    HTTP
+    http_req_duration.......................................................: avg=8.46ms min=8.09ms med=8.49ms max=8.79ms p(90)=8.73ms p(95)=8.76ms
+      { expected_response:true }............................................: avg=8.46ms min=8.09ms med=8.49ms max=8.79ms p(90)=8.73ms p(95)=8.76ms
+    http_req_failed.........................................................: 0.00%  0 out of 3
+    http_reqs...............................................................: 3      0.989598/s
+
+    EXECUTION
+    iteration_duration......................................................: avg=1.01s  min=1s     med=1s     max=1.01s  p(90)=1.01s  p(95)=1.01s 
+    iterations..............................................................: 3      0.989598/s
+    vus.....................................................................: 1      min=1      max=1
+    vus_max.................................................................: 1      min=1      max=1
+
+    NETWORK
+    data_received...........................................................: 1.3 kB 435 B/s
+    data_sent...............................................................: 657 B  217 B/s
+
+
+
+
+running (00m03.0s), 0/1 VUs, 3 complete and 0 interrupted iterations
+default ✓ [ 100% ] 1 VUs  00m03.0s/10m0s  3/3 shared iters

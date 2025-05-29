@@ -1,0 +1,36 @@
+{
+  "requests": [
+    {
+      "method": "POST",
+      "url": "http://130.61.226.26:8000/memorize",
+      "headers": {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer qube_f902e70766df4267af120da27cd17ea3"
+      },
+      "body": {
+        "tenant_id": "gdias_tenant",
+        "agent_id": "agent_gdias",
+        "text": "O céu é azul quando não há nuvens.",
+        "metadata": {
+          "source": "k6_test",
+          "timestamp": "2025-05-25T19:27:10Z"
+        }
+      }
+    }
+  ],
+  "responses": [
+    {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "date": "Sun, 25 May 2025 19:27:10 GMT"
+      },
+      "body": {
+        "status": "success",
+        "memory_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+        "surprise_score": 1.0,
+        "stored_at": "2025-05-25T19:27:10.123456"
+      }
+    }
+  ]
+}
