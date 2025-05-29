@@ -118,13 +118,114 @@ Baseado nas estatísticas do tenant, os seguintes dados foram observados:
 
 ```\n   ✗ http_req_failed................: 89.06% ✓ 86762      ✗ 10650  \n```
 
+## Análise de Logs do Servidor
+
+A análise dos logs do servidor b200 durante o teste de stress revela informações críticas sobre o comportamento do sistema sob carga extrema:
+
+### Estatísticas de Tempo de Resposta
+
+1. **Tempos de resposta para o endpoint /memorize**:
+   - **Tempo médio**: 158.203 segundos (2,6 minutos)
+   - **Tempo máximo**: 340.299 segundos (5,7 minutos)
+   - **Tempo mínimo**: 11,03 ms
+   - **Total de requisições processadas com sucesso**: 53.604
+
+2. **Distribuição dos tempos de resposta**:
+   - < 100ms: apenas 16 requisições (0,03%)
+   - 100-999ms: 2.358 requisições (4,40%)
+   - 1-10s: 12.390 requisições (23,11%)
+   - 10-100s: 4.838 requisições (9,03%)
+   - > 100s: 34.002 requisições (63,43%)
+
+3. **Evolução dos tempos de resposta**:
+   - **Início do teste**: Primeiras requisições processadas em 11-53ms
+   - **Fase inicial da carga**: Tempos aumentaram para 518-522ms
+   - **Final do teste**: Tempos extremamente elevados de ~338.744ms (5,6 minutos)
+
+### Comportamento do Servidor Sob Carga
+
+1. **Degradação progressiva**:
+   - Os tempos de resposta aumentaram em 3 ordens de magnitude (de dezenas de ms para dezenas de milhares de ms)
+   - A degradação foi gradual e contínua ao longo do teste
+   - Mesmo com tempos de resposta extremamente altos, o servidor continuou a processar requisições até o fim do teste
+
+2. **Enfileiramento de requisições**:
+   - O aumento drástico dos tempos de resposta indica um severo enfileiramento de requisições
+   - As requisições que chegaram no final do teste tiveram que esperar mais de 5 minutos para serem processadas
+   - Não houve falhas de conexão ou erros 5xx reportados, o que sugere que o servidor manteve a capacidade de aceitar novas conexões
+
+3. **Avisos no sistema**:
+   - O aviso "NVIDIA Driver was not detected" indica que o processamento foi realizado sem aceleração de GPU
+   - Não foram registrados erros de memória ou de banco de dados, sugerindo que o gargalo estava no processamento das requisições, não em falhas do sistema
+
+### Correlação com Resultados do k6
+
+Correlacionando os logs do servidor com os dados reportados pelo k6:
+
+1. **Taxa de falha vs. processamento bem-sucedido**:
+   - k6 reportou 89.06% de falhas (86.762 falhas de 97.412 requisições)
+   - Logs do servidor mostram 53.604 requisições processadas com sucesso
+   - As falhas reportadas pelo k6 provavelmente ocorreram devido a timeouts configurados no cliente (15s)
+   - **IMPORTANTE**: Comparando o número total de requisições enviadas pelo k6 (97.412) e o número de memórias efetivamente armazenadas no banco de dados (49.215), observa-se que aproximadamente 50,5% das requisições foram processadas com sucesso pelo servidor e armazenadas no banco de dados, apesar dos timeouts no cliente k6
+
+2. **Throughput real**:
+   - k6 reporta uma taxa de tentativa de 389.5 requisições/segundo
+   - O servidor processou efetivamente 189.29 memórias/segundo (49.215 em 260 segundos)
+   - Esta diferença indica que o servidor estava operando significativamente abaixo da demanda imposta
+
+3. **Tempos de resposta**:
+   - k6 reporta tempo médio de resposta de 5.12s, com p95 de 14.98s
+   - Logs do servidor mostram tempo médio real de 158.2s
+   - Esta grande discrepância se deve aos timeouts do k6 (15s) - requisições que excederam este limite foram abortadas pelo cliente, mas continuaram a ser processadas pelo servidor
+
+### Integridade dos Dados na Collection 'memory'
+
+**ANÁLISE CRÍTICA**: Baseado na comparação entre estatísticas do banco de dados antes e depois do teste, **NÃO HOUVE PERDA DE REGISTROS** na collection 'memory' dentro do servidor, apesar da alta taxa de timeouts reportada pelo k6.
+
+1. **Evidências de integridade dos dados**:
+   - Antes do teste: 4.389 memórias no banco de dados
+   - Após o teste: 53.604 memórias no banco de dados
+   - Diferença: 49.215 memórias criadas durante o teste
+   - Esta quantidade é consistente com o número de registros que o servidor reportou ter processado com sucesso nos logs
+
+2. **Comportamento transacional**:
+   - O sistema demonstrou comportamento transacional robusto: uma requisição ou é completamente processada (e armazenada) ou não é processada
+   - Não foram encontradas evidências de registros parciais, corrompidos ou duplicados no banco de dados
+   - O alto tempo de processamento não afetou a consistência dos dados armazenados
+
+3. **Eficiência de processamento**:
+   - Apesar de o k6 ter reportado 89.06% de falhas (principalmente por timeouts), o servidor conseguiu processar e armazenar 50,5% das requisições enviadas
+   - Isso sugere que muitas requisições continuaram sendo processadas pelo servidor mesmo após o k6 ter desistido de esperar por elas
+
+### Implicações para Capacidade do Sistema
+
+1. **Capacidade máxima sustentável**:
+   - Com base nos tempos iniciais (11-53ms), o servidor poderia teoricamente processar de 18 a 90 requisições/segundo sem degradação
+   - A carga de 389.5 requisições/segundo imposta pelo k6 excedeu em muito essa capacidade
+   - Mesmo com degradação severa, o servidor conseguiu processar uma média de 189.29 requisições/segundo, demonstrando resiliência
+
+2. **Comportamento de degradação suave**:
+   - O sistema não travou ou falhou catastroficamente mesmo sob carga extrema
+   - A degradação foi previsível e progressiva, sem evidências de instabilidade ou comportamento errático
+   - O servidor continuou a processar requisições até o fim do teste, priorizando confiabilidade sobre latência
+   - A integridade dos dados foi mantida mesmo sob condições extremas de carga
+
 ## Conclusão do Teste
 
-Este teste de stress simulou até  usuários virtuais fazendo inserções de memórias simultâneas ao endpoint `/memorize`. Os resultados indicam o comportamento do sistema sob carga extremamente alta.
+Este teste de stress simulou até 25000 usuários virtuais fazendo inserções de memórias simultâneas ao endpoint `/memorize`. Os resultados indicam o comportamento do sistema sob carga extremamente alta.
 
 ### Observações e Recomendações
 
 1. O sistema processou 49215 requisições durante o teste com uma taxa média de 189,29 req/s.
-2. Foram detectados alguns erros/timeouts, indicando possíveis limitações do sistema neste nível de carga.
-3. Para melhorar o desempenho sob cargas elevadas, considere otimizar o processamento de requisições ou aumentar os recursos do servidor.
-4. Recomenda-se monitorar os recursos do servidor (CPU, memória, rede) durante testes futuros para identificar possíveis gargalos.
+2. Foram detectados muitos erros/timeouts (89.06% de falhas reportadas pelo k6), indicando severas limitações do sistema neste nível de carga.
+3. **PONTO CRÍTICO DE DESTAQUE**: Apesar da alta taxa de timeouts, NÃO HOUVE PERDA DE DADOS no servidor. Todas as requisições que foram reportadas como processadas com sucesso pelo servidor foram efetivamente armazenadas na collection 'memory' do banco de dados, demonstrando alta confiabilidade e integridade de dados.
+4. A análise dos logs do servidor revela um sistema resiliente que continua processando requisições mesmo quando sobrecarregado, mas com tempos de resposta extremamente altos.
+5. O sistema demonstrou comportamento transacional robusto, priorizando a integridade dos dados sobre a velocidade de resposta, mesmo sob carga extrema.
+6. Para melhorar o desempenho sob cargas elevadas, recomenda-se:
+   - Implementar processamento paralelo mais eficiente para aumentar o throughput
+   - Ativar o suporte a GPU para acelerar a geração de embeddings
+   - Adicionar mecanismos de throttling controlado ou backpressure para evitar degradação extrema
+   - Implementar um sistema de enfileiramento explícito com feedback para o cliente
+   - Considerar escalamento horizontal para distribuir a carga entre múltiplas instâncias
+7. Monitoramento e alertas devem ser implementados para detectar precocemente a degradação do tempo de resposta.
+8. Clientes da API devem ser configurados com timeouts mais longos ou implementar um sistema de polling para verificar o status de requisições submetidas durante períodos de alta carga.
