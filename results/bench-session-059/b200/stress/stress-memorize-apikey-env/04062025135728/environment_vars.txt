@@ -1,0 +1,13 @@
+SSH_AGENT_LAUNCHER=gnome-keyring
+SCRIPT_NAME=stress-memorize-apikey-env
+MAX_VUS=100
+TEST_TYPE=stress
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+API_KEY=*****0d5ab
+BENCH_SESSION=bench-session-059
+API_BASE_URL=http://150.136.65.20:8000
+TENANT_ID=qube_assistant_tenant_b200_test_033_5_workers
+AGENT_ID=agent_test_b200_bench059maxpool_200_workers_1_vus100
+SERVER_TYPE=b200
+SLEEP_BETWEEN_REQUESTS=0.1
+REQUEST_TIMEOUT=15s

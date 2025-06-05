@@ -1,0 +1,1447 @@
+
+          /\      |‾‾| /‾‾/   /‾‾/   
+     /\  /  \     |  |/  /   /  /    
+    /  \/    \    |     (   /   ‾‾\  
+   /          \   |  |\  \ |  (‾)  | 
+  / __________ \  |__| \__\ \_____/ .io
+
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+  execution: local
+     script: ./k6/scripts/stress-memorize-apikey-env.js
+     output: -
+
+  scenarios: (100.00%) 1 scenario, 100 max VUs, 1m45s max duration (incl. graceful stop):
+           * stress_test: Up to 100 looping VUs for 1m40s over 4 stages (gracefulRampDown: 5s, gracefulStop: 30s)
+
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T02:58:57-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+
+running (0m01.0s), 013/100 VUs, 0 complete and 0 interrupted iterations
+stress_test   [   1% ] 013/100 VUs  0m01.0s/1m40.0s
+
+running (0m02.0s), 017/100 VUs, 1 complete and 0 interrupted iterations
+stress_test   [   2% ] 017/100 VUs  0m02.0s/1m40.0s
+
+running (0m03.0s), 021/100 VUs, 6 complete and 0 interrupted iterations
+stress_test   [   3% ] 021/100 VUs  0m03.0s/1m40.0s
+
+running (0m04.0s), 025/100 VUs, 10 complete and 0 interrupted iterations
+stress_test   [   4% ] 025/100 VUs  0m04.0s/1m40.0s
+
+running (0m05.0s), 029/100 VUs, 11 complete and 0 interrupted iterations
+stress_test   [   5% ] 029/100 VUs  0m05.0s/1m40.0s
+
+running (0m06.0s), 033/100 VUs, 11 complete and 0 interrupted iterations
+stress_test   [   6% ] 033/100 VUs  0m06.0s/1m40.0s
+
+running (0m07.0s), 037/100 VUs, 11 complete and 0 interrupted iterations
+stress_test   [   7% ] 037/100 VUs  0m07.0s/1m40.0s
+
+running (0m08.0s), 041/100 VUs, 23 complete and 0 interrupted iterations
+stress_test   [   8% ] 041/100 VUs  0m08.0s/1m40.0s
+
+running (0m09.0s), 045/100 VUs, 23 complete and 0 interrupted iterations
+stress_test   [   9% ] 045/100 VUs  0m09.0s/1m40.0s
+
+running (0m10.0s), 049/100 VUs, 28 complete and 0 interrupted iterations
+stress_test   [  10% ] 049/100 VUs  0m10.0s/1m40.0s
+
+running (0m11.0s), 052/100 VUs, 32 complete and 0 interrupted iterations
+stress_test   [  11% ] 052/100 VUs  0m11.0s/1m40.0s
+
+running (0m12.0s), 054/100 VUs, 32 complete and 0 interrupted iterations
+stress_test   [  12% ] 054/100 VUs  0m12.0s/1m40.0s
+
+running (0m13.0s), 057/100 VUs, 38 complete and 0 interrupted iterations
+stress_test   [  13% ] 057/100 VUs  0m13.0s/1m40.0s
+
+running (0m14.0s), 059/100 VUs, 38 complete and 0 interrupted iterations
+stress_test   [  14% ] 059/100 VUs  0m14.0s/1m40.0s
+
+running (0m15.0s), 062/100 VUs, 38 complete and 0 interrupted iterations
+stress_test   [  15% ] 062/100 VUs  0m15.0s/1m40.0s
+
+running (0m16.0s), 064/100 VUs, 38 complete and 0 interrupted iterations
+stress_test   [  16% ] 064/100 VUs  0m16.0s/1m40.0s
+
+running (0m17.0s), 067/100 VUs, 38 complete and 0 interrupted iterations
+stress_test   [  17% ] 067/100 VUs  0m17.0s/1m40.0s
+
+running (0m18.0s), 069/100 VUs, 38 complete and 0 interrupted iterations
+stress_test   [  18% ] 069/100 VUs  0m18.0s/1m40.0s
+
+running (0m19.0s), 072/100 VUs, 61 complete and 0 interrupted iterations
+stress_test   [  19% ] 072/100 VUs  0m19.0s/1m40.0s
+
+running (0m20.0s), 074/100 VUs, 61 complete and 0 interrupted iterations
+stress_test   [  20% ] 074/100 VUs  0m20.0s/1m40.0s
+
+running (0m21.0s), 077/100 VUs, 61 complete and 0 interrupted iterations
+stress_test   [  21% ] 077/100 VUs  0m21.0s/1m40.0s
+
+running (0m22.0s), 079/100 VUs, 71 complete and 0 interrupted iterations
+stress_test   [  22% ] 079/100 VUs  0m22.0s/1m40.0s
+
+running (0m23.0s), 082/100 VUs, 71 complete and 0 interrupted iterations
+stress_test   [  23% ] 082/100 VUs  0m23.0s/1m40.0s
+time="2025-06-03T02:59:21-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:21-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:21-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:21-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m24.0s), 084/100 VUs, 73 complete and 0 interrupted iterations
+stress_test   [  24% ] 084/100 VUs  0m24.0s/1m40.0s
+time="2025-06-03T02:59:21-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:21-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:21-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:21-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:22-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:22-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m25.0s), 087/100 VUs, 81 complete and 0 interrupted iterations
+stress_test   [  25% ] 087/100 VUs  0m25.0s/1m40.0s
+time="2025-06-03T02:59:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:22-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:23-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:23-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:23-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:23-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m26.0s), 089/100 VUs, 84 complete and 0 interrupted iterations
+stress_test   [  26% ] 089/100 VUs  0m26.0s/1m40.0s
+time="2025-06-03T02:59:23-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:23-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:24-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m27.0s), 092/100 VUs, 86 complete and 0 interrupted iterations
+stress_test   [  27% ] 092/100 VUs  0m27.0s/1m40.0s
+time="2025-06-03T02:59:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:25-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:25-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:25-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:25-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m28.0s), 094/100 VUs, 95 complete and 0 interrupted iterations
+stress_test   [  28% ] 094/100 VUs  0m28.0s/1m40.0s
+time="2025-06-03T02:59:25-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:25-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:26-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:26-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m29.0s), 097/100 VUs, 97 complete and 0 interrupted iterations
+stress_test   [  29% ] 097/100 VUs  0m29.0s/1m40.0s
+time="2025-06-03T02:59:26-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:26-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:27-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:27-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:27-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:27-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m30.0s), 099/100 VUs, 100 complete and 0 interrupted iterations
+stress_test   [  30% ] 099/100 VUs  0m30.0s/1m40.0s
+time="2025-06-03T02:59:27-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:27-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:28-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:28-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m31.0s), 100/100 VUs, 102 complete and 0 interrupted iterations
+stress_test   [  31% ] 100/100 VUs  0m31.0s/1m40.0s
+time="2025-06-03T02:59:28-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:28-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:29-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:29-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:29-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:29-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m32.0s), 100/100 VUs, 105 complete and 0 interrupted iterations
+stress_test   [  32% ] 100/100 VUs  0m32.0s/1m40.0s
+time="2025-06-03T02:59:29-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:29-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:30-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:30-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m33.0s), 100/100 VUs, 107 complete and 0 interrupted iterations
+stress_test   [  33% ] 100/100 VUs  0m33.0s/1m40.0s
+time="2025-06-03T02:59:30-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:30-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m34.0s), 100/100 VUs, 125 complete and 0 interrupted iterations
+stress_test   [  34% ] 100/100 VUs  0m34.0s/1m40.0s
+time="2025-06-03T02:59:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:32-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:32-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m35.0s), 100/100 VUs, 135 complete and 0 interrupted iterations
+stress_test   [  35% ] 100/100 VUs  0m35.0s/1m40.0s
+time="2025-06-03T02:59:32-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:32-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:33-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:33-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:33-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:33-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m36.0s), 100/100 VUs, 138 complete and 0 interrupted iterations
+stress_test   [  36% ] 100/100 VUs  0m36.0s/1m40.0s
+time="2025-06-03T02:59:33-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:33-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m37.0s), 100/100 VUs, 144 complete and 0 interrupted iterations
+stress_test   [  37% ] 100/100 VUs  0m37.0s/1m40.0s
+time="2025-06-03T02:59:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:35-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:35-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:35-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:35-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m38.0s), 100/100 VUs, 153 complete and 0 interrupted iterations
+stress_test   [  38% ] 100/100 VUs  0m38.0s/1m40.0s
+time="2025-06-03T02:59:35-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:35-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:36-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:36-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:36-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:36-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:36-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:36-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m39.0s), 100/100 VUs, 157 complete and 0 interrupted iterations
+stress_test   [  39% ] 100/100 VUs  0m39.0s/1m40.0s
+time="2025-06-03T02:59:36-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:36-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:36-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:36-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:36-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:36-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:37-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m40.0s), 100/100 VUs, 168 complete and 0 interrupted iterations
+stress_test   [  40% ] 100/100 VUs  0m40.0s/1m40.0s
+time="2025-06-03T02:59:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:38-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:38-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:38-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:38-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:38-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:38-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m41.0s), 100/100 VUs, 173 complete and 0 interrupted iterations
+stress_test   [  41% ] 100/100 VUs  0m41.0s/1m40.0s
+time="2025-06-03T02:59:38-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:38-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:38-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:38-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:39-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m42.0s), 100/100 VUs, 178 complete and 0 interrupted iterations
+stress_test   [  42% ] 100/100 VUs  0m42.0s/1m40.0s
+time="2025-06-03T02:59:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:40-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:40-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:40-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:40-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:40-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:40-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m43.0s), 100/100 VUs, 189 complete and 0 interrupted iterations
+stress_test   [  43% ] 100/100 VUs  0m43.0s/1m40.0s
+time="2025-06-03T02:59:40-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:40-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:40-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:40-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:41-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:41-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:41-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:41-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:41-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:41-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m44.0s), 100/100 VUs, 194 complete and 0 interrupted iterations
+stress_test   [  44% ] 100/100 VUs  0m44.0s/1m40.0s
+time="2025-06-03T02:59:41-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:41-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:41-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:41-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:42-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:42-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:42-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:42-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:42-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:42-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m45.0s), 100/100 VUs, 199 complete and 0 interrupted iterations
+stress_test   [  45% ] 100/100 VUs  0m45.0s/1m40.0s
+time="2025-06-03T02:59:42-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:42-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:42-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:42-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:43-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:43-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m46.0s), 100/100 VUs, 202 complete and 0 interrupted iterations
+stress_test   [  46% ] 100/100 VUs  0m46.0s/1m40.0s
+time="2025-06-03T02:59:43-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:43-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:44-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:44-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:44-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:44-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m47.0s), 100/100 VUs, 205 complete and 0 interrupted iterations
+stress_test   [  47% ] 100/100 VUs  0m47.0s/1m40.0s
+time="2025-06-03T02:59:44-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:44-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:45-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:45-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m48.0s), 100/100 VUs, 207 complete and 0 interrupted iterations
+stress_test   [  48% ] 100/100 VUs  0m48.0s/1m40.0s
+time="2025-06-03T02:59:45-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:45-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m49.0s), 100/100 VUs, 210 complete and 0 interrupted iterations
+stress_test   [  49% ] 100/100 VUs  0m49.0s/1m40.0s
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:46-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:46-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:47-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:47-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m50.0s), 100/100 VUs, 235 complete and 0 interrupted iterations
+stress_test   [  50% ] 100/100 VUs  0m50.0s/1m40.0s
+time="2025-06-03T02:59:47-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:47-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:48-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:48-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:48-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:48-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m51.0s), 100/100 VUs, 238 complete and 0 interrupted iterations
+stress_test   [  51% ] 100/100 VUs  0m51.0s/1m40.0s
+time="2025-06-03T02:59:48-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:48-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m52.0s), 100/100 VUs, 240 complete and 0 interrupted iterations
+stress_test   [  52% ] 100/100 VUs  0m52.0s/1m40.0s
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:49-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:49-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:50-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:50-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:50-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:50-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m53.0s), 100/100 VUs, 253 complete and 0 interrupted iterations
+stress_test   [  53% ] 100/100 VUs  0m53.0s/1m40.0s
+time="2025-06-03T02:59:50-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:50-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:51-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:51-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:51-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:51-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:51-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:51-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m54.0s), 100/100 VUs, 257 complete and 0 interrupted iterations
+stress_test   [  54% ] 100/100 VUs  0m54.0s/1m40.0s
+time="2025-06-03T02:59:51-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:51-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:51-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:51-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:52-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:52-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:52-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:52-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:52-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:52-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:52-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:52-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:52-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:52-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:52-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:52-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:52-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:52-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:52-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:52-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:52-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:52-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m55.0s), 100/100 VUs, 268 complete and 0 interrupted iterations
+stress_test   [  55% ] 100/100 VUs  0m55.0s/1m40.0s
+time="2025-06-03T02:59:52-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:52-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:52-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:52-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:53-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:53-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:53-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:53-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:53-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:53-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m56.0s), 100/100 VUs, 273 complete and 0 interrupted iterations
+stress_test   [  56% ] 100/100 VUs  0m56.0s/1m40.0s
+time="2025-06-03T02:59:53-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:53-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:53-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:53-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:54-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:54-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:54-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:54-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:54-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:54-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m57.0s), 100/100 VUs, 278 complete and 0 interrupted iterations
+stress_test   [  57% ] 100/100 VUs  0m57.0s/1m40.0s
+time="2025-06-03T02:59:54-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:54-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:54-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:54-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:54-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:54-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:54-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:54-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:54-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:54-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:54-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:54-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:54-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:54-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:54-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:54-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:55-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:55-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:55-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:55-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:55-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:55-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m58.0s), 100/100 VUs, 289 complete and 0 interrupted iterations
+stress_test   [  58% ] 100/100 VUs  0m58.0s/1m40.0s
+time="2025-06-03T02:59:55-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:55-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:55-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:55-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:56-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:56-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:56-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:56-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:56-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:56-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (0m59.0s), 100/100 VUs, 294 complete and 0 interrupted iterations
+stress_test   [  59% ] 100/100 VUs  0m59.0s/1m40.0s
+time="2025-06-03T02:59:56-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:56-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:56-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:56-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:57-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:57-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:57-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:57-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:57-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:57-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m00.0s), 100/100 VUs, 299 complete and 0 interrupted iterations
+stress_test   [  60% ] 100/100 VUs  1m00.0s/1m40.0s
+time="2025-06-03T02:59:57-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:57-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:57-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:57-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:58-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:58-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m01.0s), 100/100 VUs, 302 complete and 0 interrupted iterations
+stress_test   [  61% ] 100/100 VUs  1m01.0s/1m40.0s
+time="2025-06-03T02:59:58-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:58-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:59-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:59-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T02:59:59-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:59-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m02.0s), 100/100 VUs, 305 complete and 0 interrupted iterations
+stress_test   [  62% ] 100/100 VUs  1m02.0s/1m40.0s
+time="2025-06-03T02:59:59-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T02:59:59-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:00-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:00-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m03.0s), 100/100 VUs, 307 complete and 0 interrupted iterations
+stress_test   [  63% ] 100/100 VUs  1m03.0s/1m40.0s
+time="2025-06-03T03:00:00-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:00-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m04.0s), 100/100 VUs, 310 complete and 0 interrupted iterations
+stress_test   [  64% ] 100/100 VUs  1m04.0s/1m40.0s
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:01-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:01-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:02-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:02-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m05.0s), 100/100 VUs, 335 complete and 0 interrupted iterations
+stress_test   [  65% ] 100/100 VUs  1m05.0s/1m40.0s
+time="2025-06-03T03:00:02-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:02-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:03-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:03-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:03-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:03-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m06.0s), 100/100 VUs, 338 complete and 0 interrupted iterations
+stress_test   [  66% ] 100/100 VUs  1m06.0s/1m40.0s
+time="2025-06-03T03:00:03-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:03-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m07.0s), 100/100 VUs, 340 complete and 0 interrupted iterations
+stress_test   [  67% ] 100/100 VUs  1m07.0s/1m40.0s
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:04-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:04-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:05-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:05-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:05-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:05-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m08.0s), 100/100 VUs, 353 complete and 0 interrupted iterations
+stress_test   [  68% ] 100/100 VUs  1m08.0s/1m40.0s
+time="2025-06-03T03:00:05-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:05-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:06-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:06-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:06-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:06-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:06-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:06-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m09.0s), 100/100 VUs, 357 complete and 0 interrupted iterations
+stress_test   [  69% ] 100/100 VUs  1m09.0s/1m40.0s
+time="2025-06-03T03:00:06-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:06-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:06-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:06-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:07-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:07-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:07-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:07-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:07-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:07-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:07-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:07-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:07-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:07-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:07-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:07-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:07-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:07-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:07-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:07-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:07-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:07-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m10.0s), 100/100 VUs, 368 complete and 0 interrupted iterations
+stress_test   [  70% ] 100/100 VUs  1m10.0s/1m40.0s
+time="2025-06-03T03:00:07-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:07-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:07-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:07-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:08-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:08-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:08-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:08-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:08-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:08-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m11.0s), 100/100 VUs, 372 complete and 0 interrupted iterations
+stress_test   [  71% ] 100/100 VUs  1m11.0s/1m40.0s
+time="2025-06-03T03:00:08-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:08-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m12.0s), 100/100 VUs, 378 complete and 0 interrupted iterations
+stress_test   [  72% ] 100/100 VUs  1m12.0s/1m40.0s
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:09-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:09-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:10-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:10-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:10-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:10-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:10-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:10-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m13.0s), 100/100 VUs, 388 complete and 0 interrupted iterations
+stress_test   [  73% ] 100/100 VUs  1m13.0s/1m40.0s
+time="2025-06-03T03:00:10-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:10-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:11-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:11-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:11-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:11-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:11-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:11-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:11-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:11-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m14.0s), 100/100 VUs, 394 complete and 0 interrupted iterations
+stress_test   [  74% ] 100/100 VUs  1m14.0s/1m40.0s
+time="2025-06-03T03:00:11-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:11-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:11-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:11-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:12-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:12-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:12-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:12-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:12-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:12-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m15.0s), 100/100 VUs, 398 complete and 0 interrupted iterations
+stress_test   [  75% ] 100/100 VUs  1m15.0s/1m40.0s
+time="2025-06-03T03:00:12-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:12-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:13-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:13-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:13-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:13-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m16.0s), 100/100 VUs, 402 complete and 0 interrupted iterations
+stress_test   [  76% ] 100/100 VUs  1m16.0s/1m40.0s
+time="2025-06-03T03:00:13-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:13-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:14-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:14-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:14-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:14-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m17.0s), 100/100 VUs, 404 complete and 0 interrupted iterations
+stress_test   [  77% ] 100/100 VUs  1m17.0s/1m40.0s
+time="2025-06-03T03:00:15-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:15-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:15-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:15-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m18.0s), 100/100 VUs, 407 complete and 0 interrupted iterations
+stress_test   [  78% ] 100/100 VUs  1m18.0s/1m40.0s
+time="2025-06-03T03:00:15-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:15-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m19.0s), 100/100 VUs, 409 complete and 0 interrupted iterations
+stress_test   [  79% ] 100/100 VUs  1m19.0s/1m40.0s
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:16-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:17-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:17-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:17-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:17-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m20.0s), 100/100 VUs, 435 complete and 0 interrupted iterations
+stress_test   [  80% ] 100/100 VUs  1m20.0s/1m40.0s
+time="2025-06-03T03:00:17-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:17-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:18-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:18-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:18-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:18-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m21.0s), 100/100 VUs, 437 complete and 0 interrupted iterations
+stress_test   [  81% ] 100/100 VUs  1m21.0s/1m40.0s
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m22.0s), 100/100 VUs, 440 complete and 0 interrupted iterations
+stress_test   [  82% ] 100/100 VUs  1m22.0s/1m40.0s
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:19-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:19-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:20-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:20-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:20-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:20-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m23.0s), 100/100 VUs, 452 complete and 0 interrupted iterations
+stress_test   [  83% ] 100/100 VUs  1m23.0s/1m40.0s
+time="2025-06-03T03:00:21-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:21-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:21-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:21-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:21-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:21-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:21-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:21-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m24.0s), 100/100 VUs, 456 complete and 0 interrupted iterations
+stress_test   [  84% ] 100/100 VUs  1m24.0s/1m40.0s
+time="2025-06-03T03:00:21-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:21-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:21-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:21-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:22-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:22-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:22-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:22-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:22-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:22-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:22-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:22-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:22-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m25.0s), 100/100 VUs, 466 complete and 0 interrupted iterations
+stress_test   [  85% ] 100/100 VUs  1m25.0s/1m40.0s
+time="2025-06-03T03:00:22-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:22-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:23-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:23-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:23-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:23-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:23-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:23-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m26.0s), 100/100 VUs, 472 complete and 0 interrupted iterations
+stress_test   [  86% ] 100/100 VUs  1m26.0s/1m40.0s
+time="2025-06-03T03:00:23-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:23-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:23-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:23-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:24-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m27.0s), 100/100 VUs, 477 complete and 0 interrupted iterations
+stress_test   [  87% ] 100/100 VUs  1m27.0s/1m40.0s
+time="2025-06-03T03:00:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:24-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:24-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:25-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:25-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:25-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:25-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:25-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:25-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m28.0s), 100/100 VUs, 488 complete and 0 interrupted iterations
+stress_test   [  88% ] 100/100 VUs  1m28.0s/1m40.0s
+time="2025-06-03T03:00:25-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:25-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:25-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:25-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:26-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:26-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:26-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:26-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:26-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:26-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:26-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:26-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m29.0s), 100/100 VUs, 493 complete and 0 interrupted iterations
+stress_test   [  89% ] 100/100 VUs  1m29.0s/1m40.0s
+time="2025-06-03T03:00:26-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:26-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:27-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:27-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:27-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:27-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:27-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:27-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m30.0s), 100/100 VUs, 498 complete and 0 interrupted iterations
+stress_test   [  90% ] 100/100 VUs  1m30.0s/1m40.0s
+time="2025-06-03T03:00:27-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:27-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:27-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:27-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:28-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:28-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:28-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:28-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m31.0s), 099/100 VUs, 502 complete and 0 interrupted iterations
+stress_test   [  91% ] 099/100 VUs  1m31.0s/1m40.0s
+time="2025-06-03T03:00:28-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:28-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:29-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:29-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m32.0s), 099/100 VUs, 504 complete and 0 interrupted iterations
+stress_test   [  92% ] 099/100 VUs  1m32.0s/1m40.0s
+time="2025-06-03T03:00:29-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:29-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:30-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:30-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:30-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:30-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m33.0s), 099/100 VUs, 507 complete and 0 interrupted iterations
+stress_test   [  93% ] 099/100 VUs  1m33.0s/1m40.0s
+time="2025-06-03T03:00:30-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:30-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m34.0s), 097/100 VUs, 509 complete and 0 interrupted iterations
+stress_test   [  94% ] 097/100 VUs  1m34.0s/1m40.0s
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:31-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:32-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:32-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:32-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:32-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m35.0s), 094/100 VUs, 535 complete and 0 interrupted iterations
+stress_test   [  95% ] 094/100 VUs  1m35.0s/1m40.0s
+time="2025-06-03T03:00:32-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:32-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:33-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:33-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m36.0s), 084/100 VUs, 537 complete and 8 interrupted iterations
+stress_test   [  96% ] 084/100 VUs  1m36.0s/1m40.0s
+time="2025-06-03T03:00:33-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:33-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m37.0s), 071/100 VUs, 540 complete and 18 interrupted iterations
+stress_test   [  97% ] 071/100 VUs  1m37.0s/1m40.0s
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:34-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:34-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m38.0s), 064/100 VUs, 550 complete and 20 interrupted iterations
+stress_test   [  98% ] 064/100 VUs  1m38.0s/1m40.0s
+time="2025-06-03T03:00:36-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:36-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m39.0s), 055/100 VUs, 551 complete and 28 interrupted iterations
+stress_test   [  99% ] 055/100 VUs  1m39.0s/1m40.0s
+time="2025-06-03T03:00:36-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:36-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:36-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:36-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:37-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:37-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m40.0s), 037/100 VUs, 559 complete and 38 interrupted iterations
+stress_test   [ 100% ] 037/100 VUs  1m40.0s/1m40.0s
+time="2025-06-03T03:00:37-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:37-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m41.0s), 034/100 VUs, 560 complete and 40 interrupted iterations
+stress_test ↓ [ 100% ] 037/100 VUs  1m40s
+
+running (1m42.0s), 027/100 VUs, 560 complete and 47 interrupted iterations
+stress_test ↓ [ 100% ] 037/100 VUs  1m40s
+time="2025-06-03T03:00:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:39-03:00" level=warning msg="Request Failed" error="Post \"http://130.61.226.26:8000/memorize\": request timeout"
+time="2025-06-03T03:00:39-03:00" level=error msg="Request failed with status 0: null" source=console
+time="2025-06-03T03:00:39-03:00" level=error msg="Request failed with status 0: null" source=console
+
+running (1m43.0s), 016/100 VUs, 566 complete and 52 interrupted iterations
+stress_test ↓ [ 100% ] 037/100 VUs  1m40s
+
+running (1m44.0s), 006/100 VUs, 566 complete and 62 interrupted iterations
+stress_test ↓ [ 100% ] 037/100 VUs  1m40s
+
+running (1m45.0s), 001/100 VUs, 566 complete and 67 interrupted iterations
+stress_test ↓ [ 100% ] 037/100 VUs  1m40s
+
+running (1m45.0s), 000/100 VUs, 566 complete and 68 interrupted iterations
+stress_test ✓ [ 100% ] 001/100 VUs  1m40s
+time="2025-06-03T03:00:42-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:00:42-03:00" level=error msg="handleSummary() failed with error \"TypeError: Cannot read property 'toFixed' of undefined or null\", falling back to the default summary" source=console
+
+     ✗ Status is 200
+      ↳  13% — ✓ 75 / ✗ 491
+     ✓ memory_id exists
+     ✗ embedding_model exists
+      ↳  0% — ✓ 0 / ✗ 75
+     ✗ tenant_id is correct
+      ↳  0% — ✓ 0 / ✗ 75
+     ✗ agent_id is correct
+      ↳  0% — ✓ 0 / ✗ 75
+
+     checks.........................: 17.32% ✓ 150      ✗ 716  
+     data_received..................: 19 kB  185 B/s
+     data_sent......................: 301 kB 2.9 kB/s
+     http_req_blocked...............: avg=181.89ms min=5.43µs   med=202.59ms max=305.85ms p(90)=234.53ms p(95)=251.03ms
+     http_req_connecting............: avg=181.75ms min=0s       med=202.45ms max=305.69ms p(90)=234.37ms p(95)=250.88ms
+   ✗ http_req_duration..............: avg=14.03s   min=863.26ms med=14.79s   max=15s      p(90)=14.8s    p(95)=15s     
+       { expected_response:true }...: avg=8.96s    min=863.26ms med=8.5s     max=14.43s   p(90)=13.93s   p(95)=14.36s  
+   ✗ http_req_failed................: 86.74% ✓ 491      ✗ 75   
+     http_req_receiving.............: avg=15.07ms  min=0s       med=0s       max=2.45s    p(90)=1.82ms   p(95)=4.89ms  
+     http_req_sending...............: avg=151.8µs  min=27.77µs  med=143.99µs max=559.16µs p(90)=242.92µs p(95)=274.38µs
+     http_req_tls_handshaking.......: avg=0s       min=0s       med=0s       max=0s       p(90)=0s       p(95)=0s      
+     http_req_waiting...............: avg=14.01s   min=861.89ms med=14.79s   max=15s      p(90)=14.8s    p(95)=15s     
+     http_reqs......................: 566    5.390424/s
+     iteration_duration.............: avg=14.26s   min=1.15s    med=15.05s   max=15.05s   p(90)=15.05s   p(95)=15.05s  
+     iterations.....................: 566    5.390424/s
+     vus............................: 1      min=1      max=100
+     vus_max........................: 100    min=100    max=100
+
+time="2025-06-03T03:00:43-03:00" level=error msg="some thresholds have failed"

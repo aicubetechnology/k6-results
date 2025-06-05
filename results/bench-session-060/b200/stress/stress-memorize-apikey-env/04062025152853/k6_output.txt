@@ -1,0 +1,1745 @@
+
+          /\      |‾‾| /‾‾/   /‾‾/   
+     /\  /  \     |  |/  /   /  /    
+    /  \/    \    |     (   /   ‾‾\  
+   /          \   |  |\  \ |  (‾)  | 
+  / __________ \  |__| \__\ \_____/ .io
+
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+  execution: local
+     script: ./k6/scripts/stress-memorize-apikey-env.js
+     output: -
+
+  scenarios: (100.00%) 1 scenario, 100 max VUs, 1m45s max duration (incl. graceful stop):
+           * stress_test: Up to 100 looping VUs for 1m40s over 4 stages (gracefulRampDown: 5s, gracefulStop: 30s)
+
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:28:58-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+
+running (0m01.0s), 013/100 VUs, 0 complete and 0 interrupted iterations
+stress_test   [   1% ] 013/100 VUs  0m01.0s/1m40.0s
+
+running (0m02.0s), 017/100 VUs, 0 complete and 0 interrupted iterations
+stress_test   [   2% ] 017/100 VUs  0m02.0s/1m40.0s
+
+running (0m03.0s), 021/100 VUs, 0 complete and 0 interrupted iterations
+stress_test   [   3% ] 021/100 VUs  0m03.0s/1m40.0s
+
+running (0m04.0s), 025/100 VUs, 0 complete and 0 interrupted iterations
+stress_test   [   4% ] 025/100 VUs  0m04.0s/1m40.0s
+
+running (0m05.0s), 029/100 VUs, 0 complete and 0 interrupted iterations
+stress_test   [   5% ] 029/100 VUs  0m05.0s/1m40.0s
+
+running (0m06.0s), 033/100 VUs, 0 complete and 0 interrupted iterations
+stress_test   [   6% ] 033/100 VUs  0m06.0s/1m40.0s
+
+running (0m07.0s), 037/100 VUs, 0 complete and 0 interrupted iterations
+stress_test   [   7% ] 037/100 VUs  0m07.0s/1m40.0s
+
+running (0m08.0s), 041/100 VUs, 3 complete and 0 interrupted iterations
+stress_test   [   8% ] 041/100 VUs  0m08.0s/1m40.0s
+
+running (0m09.0s), 045/100 VUs, 3 complete and 0 interrupted iterations
+stress_test   [   9% ] 045/100 VUs  0m09.0s/1m40.0s
+
+running (0m10.0s), 049/100 VUs, 3 complete and 0 interrupted iterations
+stress_test   [  10% ] 049/100 VUs  0m10.0s/1m40.0s
+
+running (0m11.0s), 052/100 VUs, 3 complete and 0 interrupted iterations
+stress_test   [  11% ] 052/100 VUs  0m11.0s/1m40.0s
+
+running (0m12.0s), 054/100 VUs, 3 complete and 0 interrupted iterations
+stress_test   [  12% ] 054/100 VUs  0m12.0s/1m40.0s
+
+running (0m13.0s), 057/100 VUs, 3 complete and 0 interrupted iterations
+stress_test   [  13% ] 057/100 VUs  0m13.0s/1m40.0s
+
+running (0m14.0s), 059/100 VUs, 3 complete and 0 interrupted iterations
+stress_test   [  14% ] 059/100 VUs  0m14.0s/1m40.0s
+
+running (0m15.0s), 062/100 VUs, 3 complete and 0 interrupted iterations
+stress_test   [  15% ] 062/100 VUs  0m15.0s/1m40.0s
+time="2025-06-04T15:29:13-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:13-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:13-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:13-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:13-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:13-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:13-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:13-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:13-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:13-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:13-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:13-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:13-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:13-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:13-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:13-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:14-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:14-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:14-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:14-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:14-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:14-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:14-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:14-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:14-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:14-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:14-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:14-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:14-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:14-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:14-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m16.0s), 064/100 VUs, 13 complete and 0 interrupted iterations
+stress_test   [  16% ] 064/100 VUs  0m16.0s/1m40.0s
+time="2025-06-04T15:29:14-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:14-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:14-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:14-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:14-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:15-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:15-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:15-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:15-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:15-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:15-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:15-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:15-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:15-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:15-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:15-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:15-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:15-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:15-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:15-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m17.0s), 067/100 VUs, 21 complete and 0 interrupted iterations
+stress_test   [  17% ] 067/100 VUs  0m17.0s/1m40.0s
+time="2025-06-04T15:29:15-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:15-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:15-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:15-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:15-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:16-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:16-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:16-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:16-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:16-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:16-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:16-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:16-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:16-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:16-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:16-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:16-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:16-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:16-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:16-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m18.0s), 069/100 VUs, 26 complete and 0 interrupted iterations
+stress_test   [  18% ] 069/100 VUs  0m18.0s/1m40.0s
+time="2025-06-04T15:29:16-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:16-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:16-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:16-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:16-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:17-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:17-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:17-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:17-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:17-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:17-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:17-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:17-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:17-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:17-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:17-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:17-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:17-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:17-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:17-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m19.0s), 072/100 VUs, 30 complete and 0 interrupted iterations
+stress_test   [  19% ] 072/100 VUs  0m19.0s/1m40.0s
+time="2025-06-04T15:29:17-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:17-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:17-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:17-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:17-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:18-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:18-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:18-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:18-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:18-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:18-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:18-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:18-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:18-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:18-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:18-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:18-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:18-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:18-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:18-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m20.0s), 074/100 VUs, 34 complete and 0 interrupted iterations
+stress_test   [  20% ] 074/100 VUs  0m20.0s/1m40.0s
+time="2025-06-04T15:29:18-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:18-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:18-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:18-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:18-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:19-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:19-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:19-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:19-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:19-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:19-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:19-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:19-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:19-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:19-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:19-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:19-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:19-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:19-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:19-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m21.0s), 077/100 VUs, 38 complete and 0 interrupted iterations
+stress_test   [  21% ] 077/100 VUs  0m21.0s/1m40.0s
+time="2025-06-04T15:29:19-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:19-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:19-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:19-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:19-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:20-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:20-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:20-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:20-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:20-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:20-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:20-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:20-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:20-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:20-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:20-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:20-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:20-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:20-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:20-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m22.0s), 079/100 VUs, 42 complete and 0 interrupted iterations
+stress_test   [  22% ] 079/100 VUs  0m22.0s/1m40.0s
+time="2025-06-04T15:29:20-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:20-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:20-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:20-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:20-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:21-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:21-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:21-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:21-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:21-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:21-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:21-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:21-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:21-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:21-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:21-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:21-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m23.0s), 082/100 VUs, 49 complete and 0 interrupted iterations
+stress_test   [  23% ] 082/100 VUs  0m23.0s/1m40.0s
+time="2025-06-04T15:29:21-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:21-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:21-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:21-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:22-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:22-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:22-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:22-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:22-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:22-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:22-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:22-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:22-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:22-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:22-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:22-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:22-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:22-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:22-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m24.0s), 084/100 VUs, 53 complete and 0 interrupted iterations
+stress_test   [  24% ] 084/100 VUs  0m24.0s/1m40.0s
+time="2025-06-04T15:29:22-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:22-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:22-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:22-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:22-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:23-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:23-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:23-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:23-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:23-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:23-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:23-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:23-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:23-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:23-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:23-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:23-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:23-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:23-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:23-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m25.0s), 087/100 VUs, 57 complete and 0 interrupted iterations
+stress_test   [  25% ] 087/100 VUs  0m25.0s/1m40.0s
+time="2025-06-04T15:29:23-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:23-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:23-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:23-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:23-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:24-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:24-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:24-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:24-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:24-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:24-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:24-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:24-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:24-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:24-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m26.0s), 089/100 VUs, 60 complete and 0 interrupted iterations
+stress_test   [  26% ] 089/100 VUs  0m26.0s/1m40.0s
+time="2025-06-04T15:29:25-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:25-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:25-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:25-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:25-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:25-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:25-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:25-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:25-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:25-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m27.0s), 092/100 VUs, 62 complete and 0 interrupted iterations
+stress_test   [  27% ] 092/100 VUs  0m27.0s/1m40.0s
+time="2025-06-04T15:29:25-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:25-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:25-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:25-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:25-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:26-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:26-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:26-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:26-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:26-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:26-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:26-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:26-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:26-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:26-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m28.0s), 094/100 VUs, 65 complete and 0 interrupted iterations
+stress_test   [  28% ] 094/100 VUs  0m28.0s/1m40.0s
+time="2025-06-04T15:29:27-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:27-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:27-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:27-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:27-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:27-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:27-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:27-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:27-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:27-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m29.0s), 097/100 VUs, 67 complete and 0 interrupted iterations
+stress_test   [  29% ] 097/100 VUs  0m29.0s/1m40.0s
+time="2025-06-04T15:29:27-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:27-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:27-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:27-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:27-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:28-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:28-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:28-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:28-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m30.0s), 099/100 VUs, 71 complete and 0 interrupted iterations
+stress_test   [  30% ] 099/100 VUs  0m30.0s/1m40.0s
+time="2025-06-04T15:29:28-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:28-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:28-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:28-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:28-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:28-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:28-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:28-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:28-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:28-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:28-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:28-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:28-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:28-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:29-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:29-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:29-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:29-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:29-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:29-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:29-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:29-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:29-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:29-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m31.0s), 100/100 VUs, 84 complete and 0 interrupted iterations
+stress_test   [  31% ] 100/100 VUs  0m31.0s/1m40.0s
+time="2025-06-04T15:29:30-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:30-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:30-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:30-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:30-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:30-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:30-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:30-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:30-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:30-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:30-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:30-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:30-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:30-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:30-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m32.0s), 100/100 VUs, 88 complete and 0 interrupted iterations
+stress_test   [  32% ] 100/100 VUs  0m32.0s/1m40.0s
+time="2025-06-04T15:29:30-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:30-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:30-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:30-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:30-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:30-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:30-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:30-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:30-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:30-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:31-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:31-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:31-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:31-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:31-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:31-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:31-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:31-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:31-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:31-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m33.0s), 100/100 VUs, 95 complete and 0 interrupted iterations
+stress_test   [  33% ] 100/100 VUs  0m33.0s/1m40.0s
+time="2025-06-04T15:29:31-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:31-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:31-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:31-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:31-03:00" level=info msg="FAILED_REQUEST_JSON: {\"request\":{\"url\":\"http://150.136.65.20:8000/memorize\",\"payload\":{\"tenant_id\":\"qube_assistant_tenant_b200_test_033_5_workers\",\"agent_id\":\"agent_test_b200_bench060maxpool_25_workers_8_vus100\",\"text\":\"O sistema solar tem oito planetas principais orbitando o sol.\",\"metadata\":{\"source\":\"k6_test\",\"timestamp\":\"2025-06-04T18:29:16.862Z\"}},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer *****0d5ab\"}},\"response\":{\"status\":0,\"body\":null,\"error\":\"HTTP status 0\"}}" source=console
+time="2025-06-04T15:29:31-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:32-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:32-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:32-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:32-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:32-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:32-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:32-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:32-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:32-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:32-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:32-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:32-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:32-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:32-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:32-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m34.0s), 100/100 VUs, 102 complete and 0 interrupted iterations
+stress_test   [  34% ] 100/100 VUs  0m34.0s/1m40.0s
+time="2025-06-04T15:29:32-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:32-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:32-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:32-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:33-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:33-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:33-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:33-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:33-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:33-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:33-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:33-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:33-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:33-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m35.0s), 100/100 VUs, 108 complete and 0 interrupted iterations
+stress_test   [  35% ] 100/100 VUs  0m35.0s/1m40.0s
+time="2025-06-04T15:29:33-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:33-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:33-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:33-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:33-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:34-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:34-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:34-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:34-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:34-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:34-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:34-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:34-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:34-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:34-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:34-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:34-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:34-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:34-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:34-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m36.0s), 100/100 VUs, 115 complete and 0 interrupted iterations
+stress_test   [  36% ] 100/100 VUs  0m36.0s/1m40.0s
+time="2025-06-04T15:29:34-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:34-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:34-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:34-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:35-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:35-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:35-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:35-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:35-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:35-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:35-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:35-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:35-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:35-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m37.0s), 100/100 VUs, 121 complete and 0 interrupted iterations
+stress_test   [  37% ] 100/100 VUs  0m37.0s/1m40.0s
+time="2025-06-04T15:29:35-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:35-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:35-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:35-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:35-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:35-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:36-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:36-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:36-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:36-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:36-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:36-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:36-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:36-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:36-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:36-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:36-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:36-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:36-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:36-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:36-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:36-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m38.0s), 100/100 VUs, 131 complete and 0 interrupted iterations
+stress_test   [  38% ] 100/100 VUs  0m38.0s/1m40.0s
+time="2025-06-04T15:29:36-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:36-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:36-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:36-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:37-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:37-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:37-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:37-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:37-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:37-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:37-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:37-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:37-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:37-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m39.0s), 100/100 VUs, 137 complete and 0 interrupted iterations
+stress_test   [  39% ] 100/100 VUs  0m39.0s/1m40.0s
+time="2025-06-04T15:29:37-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:37-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:37-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:37-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:37-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:37-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:38-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:38-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:38-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:38-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:38-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:38-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:38-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:38-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:38-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:38-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:38-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:38-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:38-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:38-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:38-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m40.0s), 100/100 VUs, 144 complete and 0 interrupted iterations
+stress_test   [  40% ] 100/100 VUs  0m40.0s/1m40.0s
+time="2025-06-04T15:29:38-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:38-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:38-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:38-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:39-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:39-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:39-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:39-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:39-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:39-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:39-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:39-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:39-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:39-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:39-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:39-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:39-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:39-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:39-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:39-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:39-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:39-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:39-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:39-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m41.0s), 100/100 VUs, 149 complete and 0 interrupted iterations
+stress_test   [  41% ] 100/100 VUs  0m41.0s/1m40.0s
+time="2025-06-04T15:29:39-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:39-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:39-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:39-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:39-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:40-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:40-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:40-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:40-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:40-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:40-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:40-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:40-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:40-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:40-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:40-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:40-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:40-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:40-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:40-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:40-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:40-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:40-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:40-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:40-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m42.0s), 100/100 VUs, 154 complete and 0 interrupted iterations
+stress_test   [  42% ] 100/100 VUs  0m42.0s/1m40.0s
+time="2025-06-04T15:29:40-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:40-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:40-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:40-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:40-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:41-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:41-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:41-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:41-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:41-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:41-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:41-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:41-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:41-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:41-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:41-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:41-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:41-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:41-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:41-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:41-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:41-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:41-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:41-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:41-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m43.0s), 100/100 VUs, 159 complete and 0 interrupted iterations
+stress_test   [  43% ] 100/100 VUs  0m43.0s/1m40.0s
+time="2025-06-04T15:29:41-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:41-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:41-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:41-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:41-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:42-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:42-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:42-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:42-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:42-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:42-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:42-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:42-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:42-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:42-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:42-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:42-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:42-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:42-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:42-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:42-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:42-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:42-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:42-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:42-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m44.0s), 100/100 VUs, 164 complete and 0 interrupted iterations
+stress_test   [  44% ] 100/100 VUs  0m44.0s/1m40.0s
+time="2025-06-04T15:29:42-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:42-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:42-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:42-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:42-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m45.0s), 100/100 VUs, 170 complete and 0 interrupted iterations
+stress_test   [  45% ] 100/100 VUs  0m45.0s/1m40.0s
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:43-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:43-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:43-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:44-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:44-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:44-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:44-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:44-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:44-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:44-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:44-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:44-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:44-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:44-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:44-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:44-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:44-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:44-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:44-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:44-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:44-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:44-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:44-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m46.0s), 100/100 VUs, 190 complete and 0 interrupted iterations
+stress_test   [  46% ] 100/100 VUs  0m46.0s/1m40.0s
+time="2025-06-04T15:29:45-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:45-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:45-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:45-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:45-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:45-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:45-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:45-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:45-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:45-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:45-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:45-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:45-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:45-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:45-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m47.0s), 100/100 VUs, 193 complete and 0 interrupted iterations
+stress_test   [  47% ] 100/100 VUs  0m47.0s/1m40.0s
+time="2025-06-04T15:29:45-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:45-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:45-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:45-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:45-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:45-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:45-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:45-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:45-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:45-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:46-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:46-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:46-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:46-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:46-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:46-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:46-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:46-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:46-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:46-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m48.0s), 100/100 VUs, 200 complete and 0 interrupted iterations
+stress_test   [  48% ] 100/100 VUs  0m48.0s/1m40.0s
+time="2025-06-04T15:29:46-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:46-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:46-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:46-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:46-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:46-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:47-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:47-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:47-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:47-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:47-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:47-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:47-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:47-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:47-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:47-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:47-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:47-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:47-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:47-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:47-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m49.0s), 100/100 VUs, 207 complete and 0 interrupted iterations
+stress_test   [  49% ] 100/100 VUs  0m49.0s/1m40.0s
+time="2025-06-04T15:29:47-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:47-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:47-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:47-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:48-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:48-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:48-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:48-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:48-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:48-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:48-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:48-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:48-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:48-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m50.0s), 100/100 VUs, 213 complete and 0 interrupted iterations
+stress_test   [  50% ] 100/100 VUs  0m50.0s/1m40.0s
+time="2025-06-04T15:29:48-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:48-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:48-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:48-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:48-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:48-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:49-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:49-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:49-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:49-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:49-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:49-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:49-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:49-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:49-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:49-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:49-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:49-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:49-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:49-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:49-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m51.0s), 100/100 VUs, 251 complete and 0 interrupted iterations
+stress_test   [  51% ] 100/100 VUs  0m51.0s/1m40.0s
+time="2025-06-04T15:29:49-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:49-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:49-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:49-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:50-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:50-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:50-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:50-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:50-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:50-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:50-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:50-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:50-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:50-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m52.0s), 100/100 VUs, 285 complete and 0 interrupted iterations
+stress_test   [  52% ] 100/100 VUs  0m52.0s/1m40.0s
+time="2025-06-04T15:29:50-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:50-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:50-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:50-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:50-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:50-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:51-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:51-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:51-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:51-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:51-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:51-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:51-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:51-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:51-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:51-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:51-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:51-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:29:51-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:51-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:51-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:51-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:51-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m53.0s), 100/100 VUs, 335 complete and 0 interrupted iterations
+stress_test   [  53% ] 100/100 VUs  0m53.0s/1m40.0s
+time="2025-06-04T15:29:51-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:51-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:51-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:51-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:52-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:52-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:52-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:52-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:52-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:52-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:52-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:52-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:52-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:52-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (0m54.0s), 100/100 VUs, 387 complete and 0 interrupted iterations
+stress_test   [  54% ] 100/100 VUs  0m54.0s/1m40.0s
+time="2025-06-04T15:29:52-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:52-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:52-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:52-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:52-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:52-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:53-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:53-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:29:53-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:53-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:53-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:53-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:53-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:53-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:53-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:53-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:53-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m55.0s), 100/100 VUs, 424 complete and 0 interrupted iterations
+stress_test   [  55% ] 100/100 VUs  0m55.0s/1m40.0s
+time="2025-06-04T15:29:53-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:53-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="FAILED_REQUEST_JSON: {\"request\":{\"url\":\"http://150.136.65.20:8000/memorize\",\"payload\":{\"tenant_id\":\"qube_assistant_tenant_b200_test_033_5_workers\",\"agent_id\":\"agent_test_b200_bench060maxpool_25_workers_8_vus100\",\"text\":\"A água ferve a 100 graus Celsius ao nível do mar.\",\"metadata\":{\"source\":\"k6_test\",\"timestamp\":\"2025-06-04T18:29:38.867Z\"}},\"headers\":{\"Content-Type\":\"application/json\",\"Authorization\":\"Bearer *****0d5ab\"}},\"response\":{\"status\":0,\"body\":null,\"error\":\"HTTP status 0\"}}" source=console
+time="2025-06-04T15:29:53-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:53-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:29:54-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:54-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:54-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:54-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:54-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:54-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:29:54-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:54-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:54-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:54-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:54-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:54-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:54-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:54-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:54-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:54-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:54-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:54-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:54-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:54-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:54-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m56.0s), 100/100 VUs, 475 complete and 0 interrupted iterations
+stress_test   [  56% ] 100/100 VUs  0m56.0s/1m40.0s
+time="2025-06-04T15:29:54-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:54-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:54-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:54-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:54-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:55-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:55-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:55-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:55-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:55-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:55-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:55-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:55-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:55-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:55-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:55-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:55-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:55-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:55-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:55-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:55-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:55-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:55-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:55-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:55-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m57.0s), 100/100 VUs, 532 complete and 0 interrupted iterations
+stress_test   [  57% ] 100/100 VUs  0m57.0s/1m40.0s
+time="2025-06-04T15:29:55-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:55-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:55-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:55-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:55-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:56-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:56-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:56-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:56-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:56-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:56-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:56-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:56-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:56-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:56-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:56-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:56-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:56-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:56-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:56-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:56-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:56-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:56-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:56-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:56-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m58.0s), 100/100 VUs, 573 complete and 0 interrupted iterations
+stress_test   [  58% ] 100/100 VUs  0m58.0s/1m40.0s
+time="2025-06-04T15:29:56-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:56-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:56-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:56-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:56-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:57-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:57-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:57-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:57-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:57-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:57-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:29:57-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:57-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:57-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:57-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:57-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:57-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:29:57-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:57-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:57-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:57-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:57-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:57-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:57-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:57-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:57-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:57-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (0m59.0s), 100/100 VUs, 629 complete and 0 interrupted iterations
+stress_test   [  59% ] 100/100 VUs  0m59.0s/1m40.0s
+time="2025-06-04T15:29:58-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:58-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:58-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:58-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:58-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:58-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m00.0s), 100/100 VUs, 666 complete and 0 interrupted iterations
+stress_test   [  60% ] 100/100 VUs  1m00.0s/1m40.0s
+time="2025-06-04T15:29:58-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:58-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:58-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:58-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:58-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:59-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:59-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:59-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:59-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:59-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:59-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:59-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:59-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:59-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:59-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:59-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:59-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:59-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:59-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:59-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+time="2025-06-04T15:29:59-03:00" level=warning msg="Request Failed" error="Post \"http://150.136.65.20:8000/memorize\": request timeout"
+time="2025-06-04T15:29:59-03:00" level=info msg="Resposta com status diferente de 200: 0" source=console
+time="2025-06-04T15:29:59-03:00" level=info msg="Registrando falha: status 0, erro: HTTP status 0" source=console
+time="2025-06-04T15:29:59-03:00" level=info msg="FAILED_REQUEST_JSON: body ommited due large size" source=console
+time="2025-06-04T15:29:59-03:00" level=error msg="Request failed with status 0: HTTP status 0" source=console
+
+running (1m01.0s), 100/100 VUs, 714 complete and 0 interrupted iterations
+stress_test   [  61% ] 100/100 VUs  1m01.0s/1m40.0s
+
+running (1m02.0s), 100/100 VUs, 752 complete and 0 interrupted iterations
+stress_test   [  62% ] 100/100 VUs  1m02.0s/1m40.0s
+
+running (1m03.0s), 100/100 VUs, 799 complete and 0 interrupted iterations
+stress_test   [  63% ] 100/100 VUs  1m03.0s/1m40.0s
+
+running (1m04.0s), 100/100 VUs, 837 complete and 0 interrupted iterations
+stress_test   [  64% ] 100/100 VUs  1m04.0s/1m40.0s
+
+running (1m05.0s), 100/100 VUs, 884 complete and 0 interrupted iterations
+stress_test   [  65% ] 100/100 VUs  1m05.0s/1m40.0s
+
+running (1m06.0s), 100/100 VUs, 922 complete and 0 interrupted iterations
+stress_test   [  66% ] 100/100 VUs  1m06.0s/1m40.0s
+
+running (1m07.0s), 100/100 VUs, 969 complete and 0 interrupted iterations
+stress_test   [  67% ] 100/100 VUs  1m07.0s/1m40.0s
+
+running (1m08.0s), 100/100 VUs, 1007 complete and 0 interrupted iterations
+stress_test   [  68% ] 100/100 VUs  1m08.0s/1m40.0s
+time="2025-06-04T15:30:07-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m09.0s), 100/100 VUs, 1054 complete and 0 interrupted iterations
+stress_test   [  69% ] 100/100 VUs  1m09.0s/1m40.0s
+
+running (1m10.0s), 100/100 VUs, 1092 complete and 0 interrupted iterations
+stress_test   [  70% ] 100/100 VUs  1m10.0s/1m40.0s
+
+running (1m11.0s), 100/100 VUs, 1174 complete and 0 interrupted iterations
+stress_test   [  71% ] 100/100 VUs  1m11.0s/1m40.0s
+
+running (1m12.0s), 100/100 VUs, 1255 complete and 0 interrupted iterations
+stress_test   [  72% ] 100/100 VUs  1m12.0s/1m40.0s
+time="2025-06-04T15:30:11-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m13.0s), 100/100 VUs, 1340 complete and 0 interrupted iterations
+stress_test   [  73% ] 100/100 VUs  1m13.0s/1m40.0s
+time="2025-06-04T15:30:11-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:12-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m14.0s), 100/100 VUs, 1460 complete and 0 interrupted iterations
+stress_test   [  74% ] 100/100 VUs  1m14.0s/1m40.0s
+
+running (1m15.0s), 100/100 VUs, 1543 complete and 0 interrupted iterations
+stress_test   [  75% ] 100/100 VUs  1m15.0s/1m40.0s
+time="2025-06-04T15:30:14-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m16.0s), 100/100 VUs, 1630 complete and 0 interrupted iterations
+stress_test   [  76% ] 100/100 VUs  1m16.0s/1m40.0s
+time="2025-06-04T15:30:14-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m17.0s), 100/100 VUs, 1708 complete and 0 interrupted iterations
+stress_test   [  77% ] 100/100 VUs  1m17.0s/1m40.0s
+
+running (1m18.0s), 100/100 VUs, 1791 complete and 0 interrupted iterations
+stress_test   [  78% ] 100/100 VUs  1m18.0s/1m40.0s
+
+running (1m19.0s), 100/100 VUs, 1869 complete and 0 interrupted iterations
+stress_test   [  79% ] 100/100 VUs  1m19.0s/1m40.0s
+
+running (1m20.0s), 100/100 VUs, 1957 complete and 0 interrupted iterations
+stress_test   [  80% ] 100/100 VUs  1m20.0s/1m40.0s
+time="2025-06-04T15:30:19-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:19-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:19-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m21.0s), 100/100 VUs, 2048 complete and 0 interrupted iterations
+stress_test   [  81% ] 100/100 VUs  1m21.0s/1m40.0s
+time="2025-06-04T15:30:20-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m22.0s), 100/100 VUs, 2161 complete and 0 interrupted iterations
+stress_test   [  82% ] 100/100 VUs  1m22.0s/1m40.0s
+time="2025-06-04T15:30:21-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:21-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m23.0s), 100/100 VUs, 2247 complete and 0 interrupted iterations
+stress_test   [  83% ] 100/100 VUs  1m23.0s/1m40.0s
+time="2025-06-04T15:30:22-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m24.0s), 100/100 VUs, 2327 complete and 0 interrupted iterations
+stress_test   [  84% ] 100/100 VUs  1m24.0s/1m40.0s
+time="2025-06-04T15:30:23-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m25.0s), 100/100 VUs, 2415 complete and 0 interrupted iterations
+stress_test   [  85% ] 100/100 VUs  1m25.0s/1m40.0s
+time="2025-06-04T15:30:23-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:23-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:24-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:24-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:24-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:24-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:24-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m26.0s), 100/100 VUs, 2534 complete and 0 interrupted iterations
+stress_test   [  86% ] 100/100 VUs  1m26.0s/1m40.0s
+time="2025-06-04T15:30:25-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m27.0s), 100/100 VUs, 2616 complete and 0 interrupted iterations
+stress_test   [  87% ] 100/100 VUs  1m27.0s/1m40.0s
+
+running (1m28.0s), 100/100 VUs, 2706 complete and 0 interrupted iterations
+stress_test   [  88% ] 100/100 VUs  1m28.0s/1m40.0s
+
+running (1m29.0s), 100/100 VUs, 2797 complete and 0 interrupted iterations
+stress_test   [  89% ] 100/100 VUs  1m29.0s/1m40.0s
+
+running (1m30.0s), 100/100 VUs, 2909 complete and 0 interrupted iterations
+stress_test   [  90% ] 100/100 VUs  1m30.0s/1m40.0s
+
+running (1m31.0s), 093/100 VUs, 2994 complete and 0 interrupted iterations
+stress_test   [  91% ] 093/100 VUs  1m31.0s/1m40.0s
+time="2025-06-04T15:30:30-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m32.0s), 090/100 VUs, 3060 complete and 0 interrupted iterations
+stress_test   [  92% ] 090/100 VUs  1m32.0s/1m40.0s
+time="2025-06-04T15:30:31-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m33.0s), 082/100 VUs, 3135 complete and 0 interrupted iterations
+stress_test   [  93% ] 082/100 VUs  1m33.0s/1m40.0s
+time="2025-06-04T15:30:32-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m34.0s), 066/100 VUs, 3235 complete and 0 interrupted iterations
+stress_test   [  94% ] 066/100 VUs  1m34.0s/1m40.0s
+time="2025-06-04T15:30:33-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m35.0s), 054/100 VUs, 3316 complete and 0 interrupted iterations
+stress_test   [  95% ] 054/100 VUs  1m35.0s/1m40.0s
+
+running (1m36.0s), 043/100 VUs, 3397 complete and 0 interrupted iterations
+stress_test   [  96% ] 043/100 VUs  1m36.0s/1m40.0s
+time="2025-06-04T15:30:35-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:35-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m37.0s), 035/100 VUs, 3464 complete and 0 interrupted iterations
+stress_test   [  97% ] 035/100 VUs  1m37.0s/1m40.0s
+
+running (1m38.0s), 022/100 VUs, 3540 complete and 0 interrupted iterations
+stress_test   [  98% ] 022/100 VUs  1m38.0s/1m40.0s
+time="2025-06-04T15:30:37-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:37-03:00" level=info msg="Memory created with ID: undefined" source=console
+time="2025-06-04T15:30:37-03:00" level=info msg="Memory created with ID: undefined" source=console
+
+running (1m39.0s), 011/100 VUs, 3590 complete and 0 interrupted iterations
+stress_test   [  99% ] 011/100 VUs  1m39.0s/1m40.0s
+
+running (1m40.0s), 002/100 VUs, 3614 complete and 0 interrupted iterations
+stress_test   [ 100% ] 002/100 VUs  1m40.0s/1m40.0s
+
+running (1m40.2s), 000/100 VUs, 3616 complete and 0 interrupted iterations
+stress_test ✓ [ 100% ] 000/100 VUs  1m40s
+time="2025-06-04T15:30:39-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-04T15:30:39-03:00" level=info msg="Usando timestamp para resultados: 04062025152853" source=console
+time="2025-06-04T15:30:39-03:00" level=info msg="Diretório de resultados: k6/results/bench-session-060/b200/stress/stress-memorize-apikey-env/04062025152853" source=console
+time="2025-06-04T15:30:39-03:00" level=info msg="Taxa de falha detectada: 0.06969026548672566" source=console
+time="2025-06-04T15:30:39-03:00" level=error msg="handleSummary() failed with error \"ReferenceError: testFailures is not defined\", falling back to the default summary" source=console
+
+     ✗ Status is 200
+      ↳  93% — ✓ 3364 / ✗ 252
+
+     checks.........................: 93.03% ✓ 3364      ✗ 252  
+     data_received..................: 871 kB 8.7 kB/s
+     data_sent......................: 1.7 MB 17 kB/s
+     http_req_blocked...............: avg=12.63ms min=838ns    med=8.72µs   max=222.74ms p(90)=38.4µs   p(95)=121.47ms
+     http_req_connecting............: avg=12.61ms min=0s       med=0s       max=222.58ms p(90)=0s       p(95)=121.3ms 
+   ✗ http_req_duration..............: avg=2.19s   min=247.2ms  med=1.46s    max=15s      p(90)=2.24s    p(95)=14.87s  
+       { expected_response:true }...: avg=1.24s   min=247.2ms  med=1.45s    max=14.62s   p(90)=1.86s    p(95)=1.94s   
+   ✗ http_req_failed................: 6.96%  ✓ 252       ✗ 3364 
+     http_req_receiving.............: avg=114.7ms min=0s       med=120.46ms max=135.27ms p(90)=130.64ms p(95)=131.59ms
+     http_req_sending...............: avg=61.49µs min=3.63µs   med=49.53µs  max=420.68µs p(90)=101.24µs p(95)=186.84µs
+     http_req_tls_handshaking.......: avg=0s      min=0s       med=0s       max=0s       p(90)=0s       p(95)=0s      
+     http_req_waiting...............: avg=2.08s   min=131.07ms med=1.34s    max=15s      p(90)=2.12s    p(95)=14.87s  
+     http_reqs......................: 3616   36.101616/s
+     iteration_duration.............: avg=2.3s    min=348.6ms  med=1.56s    max=15s      p(90)=2.34s    p(95)=15s     
+     iterations.....................: 3616   36.101616/s
+     vus............................: 2      min=2       max=100
+     vus_max........................: 100    min=100     max=100
+
+time="2025-06-04T15:30:39-03:00" level=error msg="some thresholds have failed"

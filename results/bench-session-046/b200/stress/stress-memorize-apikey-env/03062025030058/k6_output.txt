@@ -1,0 +1,482 @@
+
+          /\      |‾‾| /‾‾/   /‾‾/   
+     /\  /  \     |  |/  /   /  /    
+    /  \/    \    |     (   /   ‾‾\  
+   /          \   |  |\  \ |  (‾)  | 
+  / __________ \  |__| \__\ \_____/ .io
+
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+  execution: local
+     script: ./k6/scripts/stress-memorize-apikey-env.js
+     output: -
+
+  scenarios: (100.00%) 1 scenario, 100 max VUs, 1m45s max duration (incl. graceful stop):
+           * stress_test: Up to 100 looping VUs for 1m40s over 4 stages (gracefulRampDown: 5s, gracefulStop: 30s)
+
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:01:03-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+
+running (0m01.0s), 013/100 VUs, 14 complete and 0 interrupted iterations
+stress_test   [   1% ] 013/100 VUs  0m01.0s/1m40.0s
+
+running (0m02.0s), 017/100 VUs, 44 complete and 0 interrupted iterations
+stress_test   [   2% ] 017/100 VUs  0m02.0s/1m40.0s
+
+running (0m03.0s), 021/100 VUs, 79 complete and 0 interrupted iterations
+stress_test   [   3% ] 021/100 VUs  0m03.0s/1m40.0s
+
+running (0m04.0s), 025/100 VUs, 101 complete and 0 interrupted iterations
+stress_test   [   4% ] 025/100 VUs  0m04.0s/1m40.0s
+
+running (0m05.0s), 029/100 VUs, 139 complete and 0 interrupted iterations
+stress_test   [   5% ] 029/100 VUs  0m05.0s/1m40.0s
+
+running (0m06.0s), 033/100 VUs, 168 complete and 0 interrupted iterations
+stress_test   [   6% ] 033/100 VUs  0m06.0s/1m40.0s
+
+running (0m07.0s), 037/100 VUs, 201 complete and 0 interrupted iterations
+stress_test   [   7% ] 037/100 VUs  0m07.0s/1m40.0s
+time="2025-06-03T03:01:11-03:00" level=info msg="Memory created with ID: b8bddc21-a3f8-4d3b-aa4d-6775cff36f57" source=console
+
+running (0m08.0s), 041/100 VUs, 239 complete and 0 interrupted iterations
+stress_test   [   8% ] 041/100 VUs  0m08.0s/1m40.0s
+time="2025-06-03T03:01:11-03:00" level=info msg="Memory created with ID: c57df100-58cc-4824-bbcd-b6a0b8330cca" source=console
+
+running (0m09.0s), 045/100 VUs, 259 complete and 0 interrupted iterations
+stress_test   [   9% ] 045/100 VUs  0m09.0s/1m40.0s
+time="2025-06-03T03:01:13-03:00" level=info msg="Memory created with ID: 69b8620b-d074-4ac7-82f2-9a8e4c2b6a16" source=console
+
+running (0m10.0s), 049/100 VUs, 281 complete and 0 interrupted iterations
+stress_test   [  10% ] 049/100 VUs  0m10.0s/1m40.0s
+
+running (0m11.0s), 052/100 VUs, 329 complete and 0 interrupted iterations
+stress_test   [  11% ] 052/100 VUs  0m11.0s/1m40.0s
+
+running (0m12.0s), 054/100 VUs, 355 complete and 0 interrupted iterations
+stress_test   [  12% ] 054/100 VUs  0m12.0s/1m40.0s
+
+running (0m13.0s), 057/100 VUs, 382 complete and 0 interrupted iterations
+stress_test   [  13% ] 057/100 VUs  0m13.0s/1m40.0s
+
+running (0m14.0s), 059/100 VUs, 410 complete and 0 interrupted iterations
+stress_test   [  14% ] 059/100 VUs  0m14.0s/1m40.0s
+
+running (0m15.0s), 062/100 VUs, 439 complete and 0 interrupted iterations
+stress_test   [  15% ] 062/100 VUs  0m15.0s/1m40.0s
+
+running (0m16.0s), 064/100 VUs, 469 complete and 0 interrupted iterations
+stress_test   [  16% ] 064/100 VUs  0m16.0s/1m40.0s
+
+running (0m17.0s), 067/100 VUs, 501 complete and 0 interrupted iterations
+stress_test   [  17% ] 067/100 VUs  0m17.0s/1m40.0s
+time="2025-06-03T03:01:20-03:00" level=info msg="Memory created with ID: b5697d33-96d1-44a7-a112-62c43a4ce0b2" source=console
+
+running (0m18.0s), 069/100 VUs, 533 complete and 0 interrupted iterations
+stress_test   [  18% ] 069/100 VUs  0m18.0s/1m40.0s
+time="2025-06-03T03:01:21-03:00" level=info msg="Memory created with ID: f37c4996-be6b-4b4c-9d3b-507f2f08509e" source=console
+
+running (0m19.0s), 072/100 VUs, 568 complete and 0 interrupted iterations
+stress_test   [  19% ] 072/100 VUs  0m19.0s/1m40.0s
+time="2025-06-03T03:01:22-03:00" level=info msg="Memory created with ID: 8be66146-4b58-4937-991f-eb4f37f7bc93" source=console
+
+running (0m20.0s), 074/100 VUs, 602 complete and 0 interrupted iterations
+stress_test   [  20% ] 074/100 VUs  0m20.0s/1m40.0s
+time="2025-06-03T03:01:23-03:00" level=info msg="Memory created with ID: 50068c03-8870-4e1d-a8c8-6242a3377c2f" source=console
+
+running (0m21.0s), 077/100 VUs, 640 complete and 0 interrupted iterations
+stress_test   [  21% ] 077/100 VUs  0m21.0s/1m40.0s
+time="2025-06-03T03:01:24-03:00" level=info msg="Memory created with ID: 74b9921e-8cd4-4758-8c14-9f495437cbc5" source=console
+
+running (0m22.0s), 079/100 VUs, 677 complete and 0 interrupted iterations
+stress_test   [  22% ] 079/100 VUs  0m22.0s/1m40.0s
+
+running (0m23.0s), 082/100 VUs, 718 complete and 0 interrupted iterations
+stress_test   [  23% ] 082/100 VUs  0m23.0s/1m40.0s
+
+running (0m24.0s), 084/100 VUs, 718 complete and 0 interrupted iterations
+stress_test   [  24% ] 084/100 VUs  0m24.0s/1m40.0s
+
+running (0m25.0s), 087/100 VUs, 758 complete and 0 interrupted iterations
+stress_test   [  25% ] 087/100 VUs  0m25.0s/1m40.0s
+time="2025-06-03T03:01:28-03:00" level=info msg="Memory created with ID: ada2e8b9-d3ef-4cf8-abb2-223dcb883a43" source=console
+
+running (0m26.0s), 089/100 VUs, 793 complete and 0 interrupted iterations
+stress_test   [  26% ] 089/100 VUs  0m26.0s/1m40.0s
+
+running (0m27.0s), 092/100 VUs, 826 complete and 0 interrupted iterations
+stress_test   [  27% ] 092/100 VUs  0m27.0s/1m40.0s
+
+running (0m28.0s), 094/100 VUs, 843 complete and 0 interrupted iterations
+stress_test   [  28% ] 094/100 VUs  0m28.0s/1m40.0s
+time="2025-06-03T03:01:32-03:00" level=info msg="Memory created with ID: 82ef8892-83b7-4ea5-87cb-add8dd691547" source=console
+
+running (0m29.0s), 097/100 VUs, 906 complete and 0 interrupted iterations
+stress_test   [  29% ] 097/100 VUs  0m29.0s/1m40.0s
+
+running (0m30.0s), 099/100 VUs, 934 complete and 0 interrupted iterations
+stress_test   [  30% ] 099/100 VUs  0m30.0s/1m40.0s
+
+running (0m31.0s), 100/100 VUs, 934 complete and 0 interrupted iterations
+stress_test   [  31% ] 100/100 VUs  0m31.0s/1m40.0s
+
+running (0m32.0s), 100/100 VUs, 974 complete and 0 interrupted iterations
+stress_test   [  32% ] 100/100 VUs  0m32.0s/1m40.0s
+
+running (0m33.0s), 100/100 VUs, 1013 complete and 0 interrupted iterations
+stress_test   [  33% ] 100/100 VUs  0m33.0s/1m40.0s
+
+running (0m34.0s), 100/100 VUs, 1032 complete and 0 interrupted iterations
+stress_test   [  34% ] 100/100 VUs  0m34.0s/1m40.0s
+
+running (0m35.0s), 100/100 VUs, 1072 complete and 0 interrupted iterations
+stress_test   [  35% ] 100/100 VUs  0m35.0s/1m40.0s
+time="2025-06-03T03:01:38-03:00" level=info msg="Memory created with ID: 84861d0e-e1ac-40c2-beb0-f2a98065a089" source=console
+
+running (0m36.0s), 100/100 VUs, 1102 complete and 0 interrupted iterations
+stress_test   [  36% ] 100/100 VUs  0m36.0s/1m40.0s
+time="2025-06-03T03:01:39-03:00" level=info msg="Memory created with ID: 1fb484a1-a14e-436b-b194-579ffb86cd01" source=console
+time="2025-06-03T03:01:39-03:00" level=info msg="Memory created with ID: 744b7c49-755c-498c-af0a-4ff85daa95b2" source=console
+
+running (0m37.0s), 100/100 VUs, 1131 complete and 0 interrupted iterations
+stress_test   [  37% ] 100/100 VUs  0m37.0s/1m40.0s
+
+running (0m38.0s), 100/100 VUs, 1172 complete and 0 interrupted iterations
+stress_test   [  38% ] 100/100 VUs  0m38.0s/1m40.0s
+
+running (0m39.0s), 100/100 VUs, 1202 complete and 0 interrupted iterations
+stress_test   [  39% ] 100/100 VUs  0m39.0s/1m40.0s
+
+running (0m40.0s), 100/100 VUs, 1232 complete and 0 interrupted iterations
+stress_test   [  40% ] 100/100 VUs  0m40.0s/1m40.0s
+
+running (0m41.0s), 100/100 VUs, 1272 complete and 0 interrupted iterations
+stress_test   [  41% ] 100/100 VUs  0m41.0s/1m40.0s
+
+running (0m42.0s), 100/100 VUs, 1302 complete and 0 interrupted iterations
+stress_test   [  42% ] 100/100 VUs  0m42.0s/1m40.0s
+
+running (0m43.0s), 100/100 VUs, 1332 complete and 0 interrupted iterations
+stress_test   [  43% ] 100/100 VUs  0m43.0s/1m40.0s
+
+running (0m44.0s), 100/100 VUs, 1372 complete and 0 interrupted iterations
+stress_test   [  44% ] 100/100 VUs  0m44.0s/1m40.0s
+
+running (0m45.0s), 100/100 VUs, 1402 complete and 0 interrupted iterations
+stress_test   [  45% ] 100/100 VUs  0m45.0s/1m40.0s
+
+running (0m46.0s), 100/100 VUs, 1432 complete and 0 interrupted iterations
+stress_test   [  46% ] 100/100 VUs  0m46.0s/1m40.0s
+
+running (0m47.0s), 100/100 VUs, 1432 complete and 0 interrupted iterations
+stress_test   [  47% ] 100/100 VUs  0m47.0s/1m40.0s
+
+running (0m48.0s), 100/100 VUs, 1502 complete and 0 interrupted iterations
+stress_test   [  48% ] 100/100 VUs  0m48.0s/1m40.0s
+
+running (0m49.0s), 100/100 VUs, 1532 complete and 0 interrupted iterations
+stress_test   [  49% ] 100/100 VUs  0m49.0s/1m40.0s
+
+running (0m50.0s), 100/100 VUs, 1532 complete and 0 interrupted iterations
+stress_test   [  50% ] 100/100 VUs  0m50.0s/1m40.0s
+time="2025-06-03T03:01:53-03:00" level=info msg="Memory created with ID: 2f8a82e8-7ee4-40e3-9cf9-2b13c2315a2e" source=console
+time="2025-06-03T03:01:54-03:00" level=info msg="Memory created with ID: 83d2e244-bca1-4b31-8944-b1c1fe342c9e" source=console
+time="2025-06-03T03:01:54-03:00" level=info msg="Memory created with ID: f3554861-94b6-4218-afc1-91fa1a715787" source=console
+
+running (0m51.0s), 100/100 VUs, 1572 complete and 0 interrupted iterations
+stress_test   [  51% ] 100/100 VUs  0m51.0s/1m40.0s
+
+running (0m52.0s), 100/100 VUs, 1632 complete and 0 interrupted iterations
+stress_test   [  52% ] 100/100 VUs  0m52.0s/1m40.0s
+
+running (0m53.0s), 100/100 VUs, 1632 complete and 0 interrupted iterations
+stress_test   [  53% ] 100/100 VUs  0m53.0s/1m40.0s
+
+running (0m54.0s), 100/100 VUs, 1672 complete and 0 interrupted iterations
+stress_test   [  54% ] 100/100 VUs  0m54.0s/1m40.0s
+
+running (0m55.0s), 100/100 VUs, 1702 complete and 0 interrupted iterations
+stress_test   [  55% ] 100/100 VUs  0m55.0s/1m40.0s
+
+running (0m56.0s), 100/100 VUs, 1732 complete and 0 interrupted iterations
+stress_test   [  56% ] 100/100 VUs  0m56.0s/1m40.0s
+time="2025-06-03T03:01:59-03:00" level=info msg="Memory created with ID: 353fc6bf-d863-402d-948a-1181955c6b35" source=console
+time="2025-06-03T03:01:59-03:00" level=info msg="Memory created with ID: 92a90ff1-6cf5-466e-96e4-c4fb70959285" source=console
+time="2025-06-03T03:01:59-03:00" level=info msg="Memory created with ID: 64761f93-7a9e-4d69-a941-8ab5e823c946" source=console
+
+running (0m57.0s), 100/100 VUs, 1772 complete and 0 interrupted iterations
+stress_test   [  57% ] 100/100 VUs  0m57.0s/1m40.0s
+time="2025-06-03T03:02:01-03:00" level=info msg="Memory created with ID: 2a9acb2e-b31f-437d-a22f-a0119bb10e2d" source=console
+
+running (0m58.0s), 100/100 VUs, 1812 complete and 0 interrupted iterations
+stress_test   [  58% ] 100/100 VUs  0m58.0s/1m40.0s
+
+running (0m59.0s), 100/100 VUs, 1832 complete and 0 interrupted iterations
+stress_test   [  59% ] 100/100 VUs  0m59.0s/1m40.0s
+
+running (1m00.0s), 100/100 VUs, 1872 complete and 0 interrupted iterations
+stress_test   [  60% ] 100/100 VUs  1m00.0s/1m40.0s
+time="2025-06-03T03:02:03-03:00" level=info msg="Memory created with ID: a268f67d-4338-4082-b363-f5fb7b805209" source=console
+
+running (1m01.0s), 100/100 VUs, 1912 complete and 0 interrupted iterations
+stress_test   [  61% ] 100/100 VUs  1m01.0s/1m40.0s
+
+running (1m02.0s), 100/100 VUs, 1952 complete and 0 interrupted iterations
+stress_test   [  62% ] 100/100 VUs  1m02.0s/1m40.0s
+time="2025-06-03T03:02:05-03:00" level=info msg="Memory created with ID: 9cdc57c2-0356-495d-9eea-e0eac6ce57c3" source=console
+
+running (1m03.0s), 100/100 VUs, 1972 complete and 0 interrupted iterations
+stress_test   [  63% ] 100/100 VUs  1m03.0s/1m40.0s
+time="2025-06-03T03:02:06-03:00" level=info msg="Memory created with ID: 80a78996-3424-414a-b210-99aa803c2300" source=console
+time="2025-06-03T03:02:06-03:00" level=info msg="Memory created with ID: 52eaf6a0-aa06-40de-82be-5d58ab356268" source=console
+
+running (1m04.0s), 100/100 VUs, 2012 complete and 0 interrupted iterations
+stress_test   [  64% ] 100/100 VUs  1m04.0s/1m40.0s
+time="2025-06-03T03:02:08-03:00" level=info msg="Memory created with ID: 76429550-88f6-4b50-9d46-0bbdc92ad4ec" source=console
+
+running (1m05.0s), 100/100 VUs, 2012 complete and 0 interrupted iterations
+stress_test   [  65% ] 100/100 VUs  1m05.0s/1m40.0s
+
+running (1m06.0s), 100/100 VUs, 2052 complete and 0 interrupted iterations
+stress_test   [  66% ] 100/100 VUs  1m06.0s/1m40.0s
+
+running (1m07.0s), 100/100 VUs, 2112 complete and 0 interrupted iterations
+stress_test   [  67% ] 100/100 VUs  1m07.0s/1m40.0s
+
+running (1m08.0s), 100/100 VUs, 2112 complete and 0 interrupted iterations
+stress_test   [  68% ] 100/100 VUs  1m08.0s/1m40.0s
+
+running (1m09.0s), 100/100 VUs, 2152 complete and 0 interrupted iterations
+stress_test   [  69% ] 100/100 VUs  1m09.0s/1m40.0s
+
+running (1m10.0s), 100/100 VUs, 2183 complete and 0 interrupted iterations
+stress_test   [  70% ] 100/100 VUs  1m10.0s/1m40.0s
+
+running (1m11.0s), 100/100 VUs, 2223 complete and 0 interrupted iterations
+stress_test   [  71% ] 100/100 VUs  1m11.0s/1m40.0s
+time="2025-06-03T03:02:14-03:00" level=info msg="Memory created with ID: 74b5ce59-8b1c-4689-8f85-0feeda0ab2a8" source=console
+
+running (1m12.0s), 100/100 VUs, 2252 complete and 0 interrupted iterations
+stress_test   [  72% ] 100/100 VUs  1m12.0s/1m40.0s
+
+running (1m13.0s), 100/100 VUs, 2292 complete and 0 interrupted iterations
+stress_test   [  73% ] 100/100 VUs  1m13.0s/1m40.0s
+
+running (1m14.0s), 100/100 VUs, 2323 complete and 0 interrupted iterations
+stress_test   [  74% ] 100/100 VUs  1m14.0s/1m40.0s
+time="2025-06-03T03:02:18-03:00" level=info msg="Memory created with ID: af1513a1-7129-4c81-b007-b4cd55332289" source=console
+
+running (1m15.0s), 100/100 VUs, 2363 complete and 0 interrupted iterations
+stress_test   [  75% ] 100/100 VUs  1m15.0s/1m40.0s
+
+running (1m16.0s), 100/100 VUs, 2392 complete and 0 interrupted iterations
+stress_test   [  76% ] 100/100 VUs  1m16.0s/1m40.0s
+
+running (1m17.0s), 100/100 VUs, 2392 complete and 0 interrupted iterations
+stress_test   [  77% ] 100/100 VUs  1m17.0s/1m40.0s
+
+running (1m18.0s), 100/100 VUs, 2432 complete and 0 interrupted iterations
+stress_test   [  78% ] 100/100 VUs  1m18.0s/1m40.0s
+
+running (1m19.0s), 100/100 VUs, 2463 complete and 0 interrupted iterations
+stress_test   [  79% ] 100/100 VUs  1m19.0s/1m40.0s
+
+running (1m20.0s), 100/100 VUs, 2484 complete and 0 interrupted iterations
+stress_test   [  80% ] 100/100 VUs  1m20.0s/1m40.0s
+time="2025-06-03T03:02:23-03:00" level=info msg="Memory created with ID: fe024381-7801-4944-a561-d58f6a091833" source=console
+
+running (1m21.0s), 100/100 VUs, 2532 complete and 0 interrupted iterations
+stress_test   [  81% ] 100/100 VUs  1m21.0s/1m40.0s
+
+running (1m22.0s), 100/100 VUs, 2553 complete and 0 interrupted iterations
+stress_test   [  82% ] 100/100 VUs  1m22.0s/1m40.0s
+
+running (1m23.0s), 100/100 VUs, 2599 complete and 0 interrupted iterations
+stress_test   [  83% ] 100/100 VUs  1m23.0s/1m40.0s
+
+running (1m24.0s), 100/100 VUs, 2630 complete and 0 interrupted iterations
+stress_test   [  84% ] 100/100 VUs  1m24.0s/1m40.0s
+
+running (1m25.0s), 100/100 VUs, 2672 complete and 0 interrupted iterations
+stress_test   [  85% ] 100/100 VUs  1m25.0s/1m40.0s
+
+running (1m26.0s), 100/100 VUs, 2699 complete and 0 interrupted iterations
+stress_test   [  86% ] 100/100 VUs  1m26.0s/1m40.0s
+
+running (1m27.0s), 100/100 VUs, 2738 complete and 0 interrupted iterations
+stress_test   [  87% ] 100/100 VUs  1m27.0s/1m40.0s
+time="2025-06-03T03:02:31-03:00" level=info msg="Memory created with ID: 9896cff8-6971-4b6f-9b9b-0606df904bff" source=console
+
+running (1m28.0s), 100/100 VUs, 2748 complete and 0 interrupted iterations
+stress_test   [  88% ] 100/100 VUs  1m28.0s/1m40.0s
+
+running (1m29.0s), 100/100 VUs, 2799 complete and 0 interrupted iterations
+stress_test   [  89% ] 100/100 VUs  1m29.0s/1m40.0s
+
+running (1m30.0s), 100/100 VUs, 2799 complete and 0 interrupted iterations
+stress_test   [  90% ] 100/100 VUs  1m30.0s/1m40.0s
+time="2025-06-03T03:02:33-03:00" level=info msg="Memory created with ID: 97046088-061d-420c-a3f7-2e4c0c70cc77" source=console
+
+running (1m31.0s), 099/100 VUs, 2839 complete and 0 interrupted iterations
+stress_test   [  91% ] 099/100 VUs  1m31.0s/1m40.0s
+
+running (1m32.0s), 097/100 VUs, 2872 complete and 0 interrupted iterations
+stress_test   [  92% ] 097/100 VUs  1m32.0s/1m40.0s
+
+running (1m33.0s), 092/100 VUs, 2899 complete and 0 interrupted iterations
+stress_test   [  93% ] 092/100 VUs  1m33.0s/1m40.0s
+
+running (1m34.0s), 072/100 VUs, 2938 complete and 0 interrupted iterations
+stress_test   [  94% ] 072/100 VUs  1m34.0s/1m40.0s
+
+running (1m35.0s), 063/100 VUs, 2969 complete and 0 interrupted iterations
+stress_test   [  95% ] 063/100 VUs  1m35.0s/1m40.0s
+
+running (1m36.0s), 050/100 VUs, 3010 complete and 0 interrupted iterations
+stress_test   [  96% ] 050/100 VUs  1m36.0s/1m40.0s
+time="2025-06-03T03:02:39-03:00" level=info msg="Memory created with ID: 3b856019-901c-4a65-8e5c-4df64b3046b4" source=console
+time="2025-06-03T03:02:39-03:00" level=info msg="Memory created with ID: 800c8b61-a3c3-427c-ab3c-afc861f1cf1a" source=console
+
+running (1m37.0s), 039/100 VUs, 3032 complete and 0 interrupted iterations
+stress_test   [  97% ] 039/100 VUs  1m37.0s/1m40.0s
+
+running (1m38.0s), 026/100 VUs, 3070 complete and 0 interrupted iterations
+stress_test   [  98% ] 026/100 VUs  1m38.0s/1m40.0s
+
+running (1m39.0s), 013/100 VUs, 3107 complete and 0 interrupted iterations
+stress_test   [  99% ] 013/100 VUs  1m39.0s/1m40.0s
+time="2025-06-03T03:02:42-03:00" level=info msg="Memory created with ID: c3e4b28e-90fe-4aa1-8a16-e979ade282db" source=console
+
+running (1m40.0s), 001/100 VUs, 3133 complete and 0 interrupted iterations
+stress_test   [ 100% ] 001/100 VUs  1m40.0s/1m40.0s
+
+running (1m40.0s), 000/100 VUs, 3134 complete and 0 interrupted iterations
+stress_test ✓ [ 100% ] 000/100 VUs  1m40s
+time="2025-06-03T03:02:43-03:00" level=info msg="Executando teste de stress com até 100 VUs" source=console
+time="2025-06-03T03:02:43-03:00" level=error msg="handleSummary() failed with error \"TypeError: Cannot read property 'toFixed' of undefined or null\", falling back to the default summary" source=console
+
+     ✓ Status is 200
+     ✓ memory_id exists
+     ✗ embedding_model exists
+      ↳  0% — ✓ 0 / ✗ 3134
+     ✗ tenant_id is correct
+      ↳  0% — ✓ 0 / ✗ 3134
+     ✗ agent_id is correct
+      ↳  0% — ✓ 0 / ✗ 3134
+
+     checks.........................: 40.00% ✓ 6268      ✗ 9402 
+     data_received..................: 812 kB 8.1 kB/s
+     data_sent......................: 1.5 MB 15 kB/s
+     http_req_blocked...............: avg=4.64ms  min=742ns    med=7.05µs max=238.63ms p(90)=14.69µs p(95)=24.97µs 
+     http_req_connecting............: avg=4.63ms  min=0s       med=0s     max=238.4ms  p(90)=0s      p(95)=0s      
+   ✗ http_req_duration..............: avg=2.62s   min=148.54ms med=3.01s  max=5.23s    p(90)=3.36s   p(95)=3.46s   
+       { expected_response:true }...: avg=2.62s   min=148.54ms med=3.01s  max=5.23s    p(90)=3.36s   p(95)=3.46s   
+   ✓ http_req_failed................: 0.00%  ✓ 0         ✗ 3134 
+     http_req_receiving.............: avg=9.51ms  min=9.54µs   med=3.37ms max=1.02s    p(90)=9.13ms  p(95)=10.55ms 
+     http_req_sending...............: avg=56.91µs min=2.8µs    med=37.6µs max=951.42µs p(90)=94.92µs p(95)=181.47µs
+     http_req_tls_handshaking.......: avg=0s      min=0s       med=0s     max=0s       p(90)=0s      p(95)=0s      
+     http_req_waiting...............: avg=2.61s   min=148.31ms med=3s     max=5.22s    p(90)=3.35s   p(95)=3.45s   
+     http_reqs......................: 3134   31.339156/s
+     iteration_duration.............: avg=2.67s   min=199.85ms med=3.06s  max=5.41s    p(90)=3.41s   p(95)=3.51s   
+     iterations.....................: 3134   31.339156/s
+     vus............................: 1      min=1       max=100
+     vus_max........................: 100    min=100     max=100
+
+time="2025-06-03T03:02:43-03:00" level=error msg="some thresholds have failed"
